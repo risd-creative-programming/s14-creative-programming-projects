@@ -41,6 +41,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 
 ##Check-ins
+Check-in weeks there is no group meeting. Optionally, you can sign up for an individual skype meeting with either Evelyn or Lauren, you do not need sign up with your main advisor. There will be various time slots during the week, see the sign-up [here]().
 
 
 ##Project updates
