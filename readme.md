@@ -1,7 +1,9 @@
 # Projects in Creative Programming
 
 RISD D+M Spring 2014
-Evelyn Eastmon, []()
+
+Evelyn Eastmond, [eeastmon@risd.edu](mailto:eeastmon@risd.edu)
+
 Lauren McCarthy, [laurmccarthy@gmail.com](mailto:laurmccarthy@gmail.com)
 
 ##Overview
