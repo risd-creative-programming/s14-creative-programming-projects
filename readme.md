@@ -13,7 +13,32 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ##Schedule
 
-####Week 1 - Feb 17
+####Week 1 - Feb 17: Workshop 1 (Github)
+
+####Week 2 - Feb 24: Check-in
+
+####Week 3 - Mar 3: Individual meetings
+
+####Week 4 - Mar 10: Check-in
+
+####Week 5 - Mar 17: Workshop 2 (Debugging and organization)
+
+####Week 6 - Mar 31: Midterm & Workshop 3 (Critique)
+
+####Week 7 - Apr 7: Check-in
+
+####Week 8 - Apr 14: Individual meetings
+
+####Week 9 - Apr 21: Check-in
+
+####Week 10 - Apr 28: Workshop 4 (Open source)
+
+####Week 11 - May 5: Check-in
+
+####Week 12 - May 12: Final
+
+####Week 13 - May 19: Final documentation submission
+
 
 ##Check-ins
 
