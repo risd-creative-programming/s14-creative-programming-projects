@@ -15,3 +15,11 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ##Check-ins
 
+
+##Project updates
+Add your name and project blog link here! 
+
+You choose a place to post weekly updates on your project. It could be an existing blog or you could create a new one with [tumblr](http://tumblr.com), [wordpress](http//wordpress.org), etc. Before 1pm each Monday, post an update to your blog with:
+* Updates, milestones achieved
+* Open questions, roadblocks
+* Goals for next week
