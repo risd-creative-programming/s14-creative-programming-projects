@@ -13,7 +13,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ##Schedule
 
-
+####Week 1 - Feb 17
 
 ##Check-ins
 
