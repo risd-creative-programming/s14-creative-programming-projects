@@ -21,7 +21,8 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 ##Project updates
 Add your name and project blog link here! 
 
-You choose a place to post weekly updates on your project. It could be an existing blog or you could create a new one with [tumblr](http://tumblr.com), [wordpress](http//wordpress.org), etc. Before 1pm each Monday, post an update to your blog with:
+Students need to document their work online somewhere, on a site of their choice (blog, [tumblr](http://tumblr.com), [wordpress](http//wordpress.org), wiki, github, etc). A weekly update should be posted by the start of class time each week (regardless of whether there’s an in person meeting or not), including:
+
 * Updates, milestones achieved
 * Open questions, roadblocks
 * Goals for next week
