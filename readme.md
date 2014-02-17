@@ -58,11 +58,17 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 ####Week 13 - May 19: Final documentation submission
 
 ##Course Expectations
-This course is mostly self-directed, and you will be required to sign up for in-person meetings according to the schedule above.  As such, it will not contain many direct assignments.  When there are expected assignments to be completed, they will be assigned and clearly designated at least 1 week before they are due.  Evaluation will primarily come from your ability to:
+This course is mostly self-directed.  As such, it will not contain many direct assignments.  When there are expected assignments to be completed, they will be assigned and clearly designated at least 1 week before they are due.  Evaluation will primarily come from your ability to:
 - organize and schedule your project
 - identify obstacles and articulate them to the class
 - pursue critical research in your problem space
 - provide critical feedback to your peers' projects
+
+**In Person Meetings**
+On **March 3** and **April 14** you will be expected to sign up for an in-person meeting with either Evelyn or Lauren to discuss your progress and technical hurdles.
+
+**Check-ins**
+On check-in weeks, you will be expected to either sign up for a remote check-in via Skype/GoogleHangout, chat or to send an email with your progress and any questions.
 
 **Mandatory Blog**  
 Every student will be required to maintain an online log, blog or website detailing their progress on their project, with **weekly** detailed updates.  This will be required to receive a final grade in the class.
