@@ -18,8 +18,8 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 * Introductions and syllabus
 * Github workshop
      * Intro to terminal and linux commands
-     * http://try.github.io/levels/1/challenges/1
      * "How Git Works"
+     * http://try.github.io/levels/1/challenges/1
      * Forking, cloning, and pull requests
      * Creating a new repository
 * __Homework (DUE February 24):__

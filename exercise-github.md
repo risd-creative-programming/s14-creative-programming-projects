@@ -2,9 +2,9 @@
 
 ###Introduction to the Terminal
 
-###http://try.github.io/levels/1/challenges/1
-
 ###How Git Works
+
+###http://try.github.io/levels/1/challenges/1
 
 ###Forking, Cloning, and Pull Requests
 
