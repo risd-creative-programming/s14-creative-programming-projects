@@ -1,10 +1,12 @@
 # Projects in Creative Programming
 
-RISD D+M Spring 2014
+RISD Digital+Media, DM2130, Spring 2014
 
 Evelyn Eastmond, [eeastmon01@risd.edu](mailto:eeastmon01@risd.edu)
 
 Lauren McCarthy, [laurmccarthy@gmail.com](mailto:laurmccarthy@gmail.com)
+
+Mondays 1:10pm - 6:10pm, RM 407, CITß
 
 ##Overview
 
