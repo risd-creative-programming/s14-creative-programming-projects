@@ -62,10 +62,10 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 ###7. Create Your First Repo
 * https://github.com/new
 
-###8. Navigating GitHub Repos
-* Show example repositories (p5.js) and their features:
-		branches
-		issues
-		histories
-		blame
-		contributor list
+###8. More About GitHub Repos
+* Example repositories (p5.js) and their features:
+    * branches
+		* issues
+		* histories
+		* blame
+		* contributor list
