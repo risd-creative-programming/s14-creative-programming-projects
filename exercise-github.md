@@ -50,7 +50,6 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 
 ###5. Clone Your First Repo
 * Cloning a repo means making a local copy for yourself.
-![](http://i.imgur.com/H2P3654.png)
 * https://github.com/evhan55/my-blog
 * Everyone clone example repo together with sample HTML/CSS blog
 * Make a change and push!
@@ -59,7 +58,6 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 * At some point you may find yourself wanting to contribute to someone else's project, or would like to use someone's project as the starting point for your own. This is known as "forking".
 * What is the difference between fork and clone?
 * https://help.github.com/articles/fork-a-repo
-![](http://i.imgur.com/sexNAik.png)
 * Fork a repo, make a change and create a pull request!
 ![](http://i.imgur.com/OcLcCCh.png) from [git simple guide](http://rogerdudler.github.io/git-guide/)
 
