@@ -11,7 +11,7 @@
 
 ###2. Introduction to the Command Line
 The command line (or terminal) is a text-based way to navigate your operating system's files.  Instead of clicking through folders, you type commands to navigate folders, create and delete files, and much more.
-* Windows [List of Windows commands](http://ss64.com/nt/)
+* **Windows** [List of Windows commands](http://ss64.com/nt/)
   * Start the command line
       * Start > Run Command Line
   * List a folder's files
@@ -21,7 +21,7 @@ The command line (or terminal) is a text-based way to navigate your operating sy
       * Type `cd ..` to navigate up one folder
   * Create an empty file in the current folder
       * Type `NUL > EmptyFile.txt`
-* OSX [List of Linux/OSX commands](http://ss64.com/bash/)
+* **OSX** [List of Linux/OSX commands](http://ss64.com/bash/)
     * Start the command line
         * Applications > Utilities > Launch **Terminal**
     * List a folder's files
