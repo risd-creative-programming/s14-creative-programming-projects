@@ -46,7 +46,6 @@ The command line (or terminal) is a text-based way to navigate your operating sy
     * `git commit`
     * `git push`
     * `git pull`
-    * `git fork`
 
 ![](http://i.imgur.com/66NShs3.png)
 
