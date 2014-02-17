@@ -68,7 +68,7 @@ This course is mostly self-directed, and you will be required to sign up for in-
 Every student will be required to maintain an online log, blog or website detailing their progress on their project, with **weekly** detailed updates.  This will be required to receive a final grade in the class.
 
 ##Check-ins
-There will be check-in weeks on weeks there is no group meeting. You can sign up for an individual Skype/GoogleHangout check-in with either Evelyn or Lauren, you do not need sign up with your main advisor. There will be various time slots during the check-in weeks, see the sign-up [here (TBD)]().
+There will be remote check-in weeks on weeks there is no in-person class meeting. You can sign up for an individual Skype/GoogleHangout check-ins with either Evelyn or Lauren, you do not need sign up with your main advisor. There will be various time slots during the check-in weeks, see the sign-up [here (TBD)]().
 
 ##Project Updates
 Add your name and project blog link here! 
