@@ -11,26 +11,24 @@ Lauren McCarthy, [laurmccarthy@gmail.com](mailto:laurmccarthy@gmail.com)
 
 This course is a graduate-level hands-on creative-programming studio, supporting conceptual and technical research and development as students build ambitious projects of their own design. This course is ideal for students working on projects with elements involving code and needing a shared research dialogue and space within which to work, ask questions, seek guidance and exchange ideas. The course will consist of a combination of individual meetings, group critiques, and focused topic-and-tool-specific workshops. Access to a full array of languages will be supported. Workshops will focus on more refined technical strategies regarding organizing, sharing and working with large quantities of code, as well as additional topics specific to students' needs. The course will also encourage students to articulate the conceptual and material contexts of their work and to address the considerations of launching projects in social, online, hybrid and physical spaces of engagement. 
 
-
 ##Schedule
 
 ####Week 1 - Feb 17: Workshop 1 (Github)
 * Introductions and syllabus
 * Github workshop
-     * Intro to terminal and linux commands
-     * "How Git Works"
-     * http://try.github.io/levels/1/challenges/1
-     * Forking, cloning, and pull requests
-     * Creating a new repository
+    * Intro to terminal and linux commands
+    * "How Git Works"
+    * http://try.github.io/levels/1/challenges/1
+    * Forking, cloning, and pull requests
+    * Creating a new repository
 * __Homework (DUE February 24):__
-     * Create your personal class blog
-     * Add name and link to class readme.md on git, submit a PR
-     * In the first blog post include:
-          * What is your project?
-          * What are the technical requirements?
-          * Where do you need most help?
-          * Proposed timeline for the semester
-
+    * Create your personal class blog
+    * Add name and link to class readme.md on git, submit a PR
+    * In the first blog post include:
+        * What is your project?
+        * What are the technical requirements?
+        * Where do you need most help?
+        * Proposed timeline for the semester
 
 
 ####Week 2 - Feb 24: Check-in
