@@ -59,7 +59,7 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 * What is the difference between Fork and Clone?
 * https://help.github.com/articles/fork-a-repo
 * Fork a repo, make a change and create a pull request!
-* ![](http://cl.ly/image/2E3o433g4420) from [git simple guide](http://rogerdudler.github.io/git-guide/)
+* ![](http://i.imgur.com/OcLcCCh.png) from [git simple guide](http://rogerdudler.github.io/git-guide/)
 
 ###7. Create Your First Repo
 * https://help.github.com/articles/create-a-repo
