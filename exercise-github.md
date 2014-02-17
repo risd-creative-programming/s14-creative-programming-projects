@@ -1,11 +1,11 @@
 ##Week 1 - Feb 17: Workshop 1 (Github)
 
-###Introduction to terminal and linux commands
+###Introduction to the Terminal
 
 ###http://try.github.io/levels/1/challenges/1
 
 ###How Git Works
 
-###Forking, cloning, and pull requests
+###Forking, Cloning, and Pull Requests
 
-###Creating a new repository
+###Creating a New Repository
