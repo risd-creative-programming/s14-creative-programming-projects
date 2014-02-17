@@ -3,6 +3,9 @@
 
 ###1. Prerequisites
 * Install Git: [Getting Started Installing Git](http://git-scm.com/book/en/Getting-Started-Installing-Git)
+    * [Installing on Mac](http://git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Mac)
+    * [Installing on Windows](http://git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Windows)
+    * [Installing on Linux](http://git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Linux)
 * Get Github account: [http://www.github.com](http://www.github.com)
 * Sign up for free education account: [https://education.github.com/](https://education.github.com/)
 
