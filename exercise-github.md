@@ -11,14 +11,26 @@
 
 ###2. Introduction to the command line
 The command line (or terminal) is a text-based way to navigate your operating system's files.  Instead of clicking through folders, you type commands to navigate folders, create and delete files, and much more.
-* Opening the command line
-    * Windows:
-        * Start > Run Command Line
-    * OSX:
+* Windows [List of Windows commands](http://ss64.com/nt/)
+  * Start the command line
+      * Start > Run Command Line
+  * List a folder's files
+      * Type `dir` and press enter
+  * Go to another folder
+      * Type `cd` followed by folder name, and press enter
+      * Type `cd ..` to navigate up one folder
+  * Create an empty file in the current folder
+      * Type `NUL > EmptyFile.txt`
+* OSX [List of Linux/OSX commands](http://ss64.com/bash/)
+    * Start the command line
         * Applications > Utilities > Launch **Terminal**
-* ls
-* cd
-* touch
+    * List a folder's files
+        * Type `ls`
+    * Go to another folder
+        * Type `cd` followed by folder name, press enter
+        * Type `cd..` to navigate up one folder
+    * Create an empty file in the current folder
+        * Type `touch EmptyFile.txt`
 
 ###3. How Git Works
 Go over git commands and explain how git works
