@@ -22,7 +22,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
      * "How Git Works"
      * Forking, cloning, and pull requests
      * Creating a new repository
-* __Homework:__
+* __Homework (DUE February 24):__
      * Create blog and add name and link to readme, submit a PR.
      * In the first blog post include:
           * What is your project?
