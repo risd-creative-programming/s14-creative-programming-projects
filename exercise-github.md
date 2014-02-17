@@ -57,7 +57,8 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 * https://help.github.com/articles/fork-a-repo
 * Fork a repo, clone it, make a change and create a pull request!
 
-![](http://i.imgur.com/OcLcCCh.png) from [git simple guide](http://rogerdudler.github.io/git-guide/)
+![](http://i.imgur.com/OcLcCCh.png)  
+from [git simple guide](http://rogerdudler.github.io/git-guide/)
 
 ###6. Create Your First Repo
 * https://help.github.com/articles/create-a-repo
