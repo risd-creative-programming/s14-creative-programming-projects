@@ -1,7 +1,8 @@
 # Projects in Creative Programming
 
 RISD Digital+Media, DM2130, Spring 2014  
-Mondays 1:10pm - 6:10pm, RM 407, CIT
+Mondays 1:10pm - 6:10pm, RM 407, CIT  
+Class website: [http://is.gd/dm2130](http://is.gd/dm2130)
 
 Evelyn Eastmond, [eeastmon01@risd.edu](mailto:eeastmon01@risd.edu)  
 Lauren McCarthy, [laurmccarthy@gmail.com](mailto:laurmccarthy@gmail.com)
@@ -57,9 +58,9 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 
 ##Check-ins
-Check-in weeks there is no group meeting. Optionally, you can sign up for an individual skype meeting with either Evelyn or Lauren, you do not need sign up with your main advisor. There will be various time slots during the week, see the sign-up [here]().
+There will be check-in weeks on weeks there is no group meeting. Optionally, you can sign up for an individual skype meeting with either Evelyn or Lauren, you do not need sign up with your main advisor. There will be various time slots during the week, see the sign-up [here (TBD)]().
 
-##Expectations
+##Course Expectations
 This course is mostly self-directed.  As such, it will not contain many direct assignments.  When there are expected assignments to be completed, they will be assigned and clearly designated at least 1 week before.  Evaluation will primarily come from your ability to:
 - organize and schedule your project
 - identify obstacles and articulate them to the class
@@ -67,7 +68,7 @@ This course is mostly self-directed.  As such, it will not contain many direct a
 - provide critical feedback to your peers' projects
 
 **Mandatory**  
-Every student will be required to maintain an online log, blog or website detailing their progress on their project, with **weekly** detailed updates.  This will be required to receive a final grade.
+Every student will be required to maintain an online log, blog or website detailing their progress on their project, with **weekly** detailed updates.  This will be required to receive a final grade in the class.
 
 ##Project Updates
 Add your name and project blog link here! 
