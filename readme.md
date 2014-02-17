@@ -58,7 +58,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 ####Week 13 - May 19: Final documentation submission
 
 ##Course Expectations
-This course is mostly self-directed, and you will be required to sign up for in-person meetings according to the schedule below.  As such, it will not contain many direct assignments.  When there are expected assignments to be completed, they will be assigned and clearly designated at least 1 week before they are due.  Evaluation will primarily come from your ability to:
+This course is mostly self-directed, and you will be required to sign up for in-person meetings according to the schedule above.  As such, it will not contain many direct assignments.  When there are expected assignments to be completed, they will be assigned and clearly designated at least 1 week before they are due.  Evaluation will primarily come from your ability to:
 - organize and schedule your project
 - identify obstacles and articulate them to the class
 - pursue critical research in your problem space
