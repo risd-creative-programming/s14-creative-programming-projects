@@ -2,7 +2,7 @@
 ##Getting Started with Git and GitHub
 
 ###1. Prerequisites
-* Install Git: [http://git-scm.com/book/en/Getting-Started-Installing-Git](Getting Started Installing Git)
+* Install Git: [Getting Started Installing Git](http://git-scm.com/book/en/Getting-Started-Installing-Git)
 * Get Github account: [http://www.github.com](http://www.github.com)
 * Sign up for free education account: [https://education.github.com/](https://education.github.com/)
 
