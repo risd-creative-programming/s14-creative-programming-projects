@@ -55,12 +55,14 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 * Make a change and push!
 
 ###6. Fork Your First Repo
-* Forking a repo means making a copy for collaboration?
+* At some point you may find yourself wanting to contribute to someone else's project, or would like to use someone's project as the starting point for your own. This is known as "forking".
 * What is the difference between Fork and Clone?
-* Make a change and pull request!
+* https://help.github.com/articles/fork-a-repo
+* Fork a repo, make a change and create a pull request!
 
 ###7. Create Your First Repo
-* Follow instructions at: [https://github.com/new](https://github.com/new)
+* https://help.github.com/articles/create-a-repo
+* Fill out form at: https://github.com/new
 
 ###8. More About GitHub Repos
 * Example repositories (p5.js) and their features:
@@ -69,3 +71,7 @@ The command line (or terminal) is a text-based way to navigate your operating sy
     * histories
     * blame
     * contributor list
+
+###9. Resources
+* [List of tutorials](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+* [Git simple guide](http://rogerdudler.github.io/git-guide/)
