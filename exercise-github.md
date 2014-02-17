@@ -9,7 +9,7 @@
 * Get Github account: [http://www.github.com](http://www.github.com)
 * Sign up for free education account: [https://education.github.com/](https://education.github.com/)
 
-###2. Introduction to the command line
+###2. Introduction to the Command Line
 The command line (or terminal) is a text-based way to navigate your operating system's files.  Instead of clicking through folders, you type commands to navigate folders, create and delete files, and much more.
 * Windows [List of Windows commands](http://ss64.com/nt/)
   * Start the command line
@@ -35,9 +35,10 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 ###3. How Git Works
 **Git** is a **versioning system** for files and software code.  This means it is a server that helps you store, track changes to and delete files as you work on them.  It is ideal for large collaborative teams working on a single project, since it helps to manage incoming changes from everyone in one single place.  It is also useful for single users who want to store their files somewhere and a full history of changes in order to **revert** to changes if files are ever lost.  A single git project is called a **repository** (or **repo** for short).
 
-**GitHub** is a website that offers free git server space for individual and collaboration use.  If you want your git repos to be private, you can sign up for a free educational account.  GitHub is also a social network, where you can find other people's git repos and follow, star, and even download (or fork/clone) other people's repositories so you can collaborate on them.
+**[GitHub](http://www.github.com)** is a website that offers free git server space for individual and collaboration use.  If you want your git repos to be private, you can sign up for a free educational account.  GitHub is also a social network, where you can find other people's git repos and follow, star, and even download (or fork/clone) other people's repositories so you can collaborate on them.
 
-###4. http://try.github.io/levels/1/challenges/1
+###4. Getting Started with Git
+* [Getting Started with Git](http://try.github.io/levels/1/challenges/1)
 * Common git commands [Git command cheat sheet](http://www.git-tower.com/blog/git-cheat-sheet-detail/)
     * `git clone`
     * `git status`
