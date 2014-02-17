@@ -33,7 +33,7 @@ The command line (or terminal) is a text-based way to navigate your operating sy
         * Type `touch EmptyFile.txt`
 
 ###3. How Git Works
-**Git** is a **versioning system** for files and software code.  This means it is a server that helps you store, track changes to and delete files as you work on them.  It is ideal for large collaborative teams working on a single project, since it helps to manage incoming changes from everyone in one single place.  It is also useful for single users who want to store their files somewhere and a full history of changes in order to **revert** to changes if files are ever lost.  A single git project is called a **repository** (or **repo** for short).
+**Git** is a **versioning system** for files and software code.  This means it is a server that helps you store, track changes to and delete files as you work on them.  It is ideal for large collaborative teams working on a single project, since it helps to manage incoming changes from everyone in one single place.  It is also useful for single users who want to store their files somewhere with a full history of changes in order to **revert** to changes if files are ever lost.  A single git project is called a **repository** (or **repo** for short).
 
 **[GitHub](http://www.github.com)** is a website that offers free git server space for individual and collaboration use.  If you want your git repos to be private, you can sign up for a free educational account.  GitHub is also a social network, where you can find other people's git repos and follow, star, and even download (or fork/clone) other people's repositories so you can collaborate on them.  GitHub is **not** used to host websites or HTML files, just raw code or files to be tracked and maintained.
 
