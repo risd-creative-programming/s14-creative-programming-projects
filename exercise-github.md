@@ -60,7 +60,7 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 * Make a change and pull request!
 
 ###7. Create Your First Repo
-* https://github.com/new
+* Follow instructions at: [https://github.com/new](https://github.com/new)
 
 ###8. More About GitHub Repos
 * Example repositories (p5.js) and their features:
