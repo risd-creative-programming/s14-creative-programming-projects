@@ -55,7 +55,8 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 * At some point you may find yourself wanting to contribute to someone else's project, or would like to use someone's project as the starting point for your own. This is known as "forking".
 * What is the difference between fork and clone?
 * https://help.github.com/articles/fork-a-repo
-* Fork a repo, make a change and create a pull request!
+* Fork a repo, clone it, make a change and create a pull request!
+
 ![](http://i.imgur.com/OcLcCCh.png) from [git simple guide](http://rogerdudler.github.io/git-guide/)
 
 ###6. Create Your First Repo
