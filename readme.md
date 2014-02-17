@@ -16,7 +16,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ####Week 1 - Feb 17: Workshop 1 (Github)
 * Introductions and syllabus
-* Github workshop
+* Git and Github workshop
     * Intro to terminal and linux commands
     * "How Git Works"
     * http://try.github.io/levels/1/challenges/1
