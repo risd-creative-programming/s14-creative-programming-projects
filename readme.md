@@ -57,19 +57,18 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ####Week 13 - May 19: Final documentation submission
 
-
-##Check-ins
-There will be check-in weeks on weeks there is no group meeting. Optionally, you can sign up for an individual skype meeting with either Evelyn or Lauren, you do not need sign up with your main advisor. There will be various time slots during the week, see the sign-up [here (TBD)]().
-
 ##Course Expectations
-This course is mostly self-directed.  As such, it will not contain many direct assignments.  When there are expected assignments to be completed, they will be assigned and clearly designated at least 1 week before they are due.  Evaluation will primarily come from your ability to:
+This course is mostly self-directed, and you will be required to sign up for in-person meetings according to the schedule below.  As such, it will not contain many direct assignments.  When there are expected assignments to be completed, they will be assigned and clearly designated at least 1 week before they are due.  Evaluation will primarily come from your ability to:
 - organize and schedule your project
 - identify obstacles and articulate them to the class
 - pursue critical research in your problem space
 - provide critical feedback to your peers' projects
 
-**Mandatory**  
+**Mandatory Blog**  
 Every student will be required to maintain an online log, blog or website detailing their progress on their project, with **weekly** detailed updates.  This will be required to receive a final grade in the class.
+
+##Check-ins
+There will be check-in weeks on weeks there is no group meeting. Optionally, you can sign up for an individual Skype/GoogleHangout meeting with either Evelyn or Lauren, you do not need sign up with your main advisor. There will be various time slots during the week, see the sign-up [here (TBD)]().
 
 ##Project Updates
 Add your name and project blog link here! 
