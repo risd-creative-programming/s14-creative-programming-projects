@@ -65,7 +65,8 @@ This course is mostly self-directed.  As such, it will not contain many direct a
 - identify obstacles and articulate them to the class
 - pursue critical research in your problem space
 - provide critical feedback to your peers' projects
-**Mandatory**
+
+**Mandatory**  
 Every student will be required to maintain an online log, blog or website detailing their progress on their project, with **weekly** detailed updates.  This will be required to receive a final grade.
 
 ##Project Updates
