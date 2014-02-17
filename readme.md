@@ -16,7 +16,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ####Week 1 - Feb 17: Workshop 1 (Github)
 * Introductions and syllabus
-* (Git and Github workshop](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/exercise-github.md)
+* [Git and Github workshop](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/exercise-github.md)
 * __Homework (DUE February 24):__
     * Create your personal class blog
     * Add name and link to class readme.md on git, submit a PR
