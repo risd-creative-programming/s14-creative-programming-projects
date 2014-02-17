@@ -41,7 +41,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ####Week 5 - Mar 17: Workshop 2 (Estimation and Organization)
 
-####Week 6 - Mar 31: Midterm & Workshop 3 (Critique)
+####Week 6 - Mar 31: Midterm Critique & Workshop 3 (On Critiquing)
 
 ####Week 7 - Apr 7: Check-in
 
@@ -53,7 +53,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ####Week 11 - May 5: Check-in
 
-####Week 12 - May 12: Final
+####Week 12 - May 12: Final Critique
 
 ####Week 13 - May 19: Final documentation submission
 
