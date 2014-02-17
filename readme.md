@@ -38,7 +38,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ####Week 4 - Mar 10: Check-in
 
-####Week 5 - Mar 17: Workshop 2 (Debugging and organization)
+####Week 5 - Mar 17: Workshop 2 (Estimation and Organization)
 
 ####Week 6 - Mar 31: Midterm & Workshop 3 (Critique)
 
@@ -48,7 +48,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ####Week 9 - Apr 21: Check-in
 
-####Week 10 - Apr 28: Workshop 4 (Open source)
+####Week 10 - Apr 28: Workshop 4 (Open Source Software)
 
 ####Week 11 - May 5: Check-in
 
