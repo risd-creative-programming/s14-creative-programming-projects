@@ -49,17 +49,23 @@ The command line (or terminal) is a text-based way to navigate your operating sy
     * `git fork`
 
 ###5. Clone Your First Repo
+* Cloning a repo means making a copy for yourself, not for collaboration?
 * https://github.com/evhan55/my-blog
-* Everyone clone example repo together with sample HTML/CSS blog?
+* Everyone clone example repo together with sample HTML/CSS blog
 * Make a change and push!
-* Show example repositories and their features:
+
+###6. Fork Your First Repo
+* Forking a repo means making a copy for collaboration?
+* What is the difference between Fork and Clone?
+* Make a change and pull request!
+
+###7. Create Your First Repo
+* https://github.com/new
+
+###8. Navigating GitHub Repos
+* Show example repositories (p5.js) and their features:
 		branches
 		issues
 		histories
 		blame
 		contributor list
-
-###6. Fork Your First Repo
-* 
-
-###7. Create Your First Repo
