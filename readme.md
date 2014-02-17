@@ -2,7 +2,7 @@
 
 RISD D+M Spring 2014
 
-Evelyn Eastmond, [eeastmon@risd.edu](mailto:eeastmon@risd.edu)
+Evelyn Eastmond, [eeastmon01@risd.edu](mailto:eeastmon01@risd.edu)
 
 Lauren McCarthy, [laurmccarthy@gmail.com](mailto:laurmccarthy@gmail.com)
 
