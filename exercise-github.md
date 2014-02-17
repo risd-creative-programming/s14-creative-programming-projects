@@ -64,7 +64,7 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 * Fill out form at: https://github.com/new
 
 ###7. Advanced: More About GitHub Repos
-* Example repositories (p5.js) and their features:
+* Example repository: [p5.js repository](https://github.com/lmccart/p5.js)
     * branches
     * issues
     * histories
