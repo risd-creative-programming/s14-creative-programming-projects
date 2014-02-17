@@ -59,8 +59,16 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 ##Check-ins
 Check-in weeks there is no group meeting. Optionally, you can sign up for an individual skype meeting with either Evelyn or Lauren, you do not need sign up with your main advisor. There will be various time slots during the week, see the sign-up [here]().
 
+##Expectations
+This course is mostly self-directed.  As such, it will not contain many direct assignments.  When there are expected assignments to be completed, they will be assigned and clearly designated at least 1 week before.  Evaluation will primarily come from your ability to:
+- organize and schedule your project
+- identify obstacles and articulate them to the class
+- pursue critical research in your problem space
+- provide critical feedback to your peers' projects
+**Mandatory**
+Every student will be required to maintain an online log, blog or website detailing their progress on their project, with **weekly** detailed updates.  This will be required to receive a final grade.
 
-##Project updates
+##Project Updates
 Add your name and project blog link here! 
 
 Students need to document their work online somewhere, on a site of their choice (blog, [tumblr](http://tumblr.com), [wordpress](http//wordpress.org), wiki, github, etc). A weekly update should be posted by the start of class time each week (regardless of whether there’s an in person meeting or not), including:
