@@ -47,6 +47,7 @@ The command line (or terminal) is a text-based way to navigate your operating sy
     * `git push`
     * `git pull`
     * `git fork`
+![](http://i.imgur.com/66NShs3.png)
 
 ###5. Clone Your First Repo
 * Cloning a repo means making a local copy for yourself.
