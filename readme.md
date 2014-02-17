@@ -23,12 +23,13 @@ This course is a graduate-level hands-on creative-programming studio, supporting
      * Forking, cloning, and pull requests
      * Creating a new repository
 * __Homework (DUE February 24):__
-     * Create blog and add name and link to readme, submit a PR.
+     * Create your personal class blog
+     * Add name and link to class readme.md on git, submit a PR
      * In the first blog post include:
           * What is your project?
           * What are the technical requirements?
           * Where do you need most help?
-          * Timeline for the semester
+          * Proposed timeline for the semester
 
 
 
