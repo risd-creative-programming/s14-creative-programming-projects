@@ -10,7 +10,12 @@
 * Sign up for free education account: [https://education.github.com/](https://education.github.com/)
 
 ###2. Introduction to the command line
-* Command line on Windows vs. command line on Mac OSX/Linux
+The command line (or terminal) is a text-based way to navigate your operating system's files.  Instead of clicking through folders, you type commands to navigate folders, create and delete files, and much more.
+* Opening the command line
+    * Windows:
+        * Start > Run Command Line
+    * OSX:
+        * Applications > Utilities > Launch **Terminal**
 * ls
 * cd
 * touch
