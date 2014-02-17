@@ -59,12 +59,13 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 * What is the difference between Fork and Clone?
 * https://help.github.com/articles/fork-a-repo
 * Fork a repo, make a change and create a pull request!
+* ![](http://cl.ly/image/2E3o433g4420) from [git simple guide](http://rogerdudler.github.io/git-guide/)
 
 ###7. Create Your First Repo
 * https://help.github.com/articles/create-a-repo
 * Fill out form at: https://github.com/new
 
-###8. More About GitHub Repos
+###8. Advanced: More About GitHub Repos
 * Example repositories (p5.js) and their features:
     * branches
     * issues
@@ -73,5 +74,6 @@ The command line (or terminal) is a text-based way to navigate your operating sy
     * contributor list
 
 ###9. Resources
-* [List of tutorials](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
-* [Git simple guide](http://rogerdudler.github.io/git-guide/)
+* [list of tutorials](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+* [git simple guide](http://rogerdudler.github.io/git-guide/)
+* [github guides](http://guides.github.com/)
