@@ -66,6 +66,6 @@ The command line (or terminal) is a text-based way to navigate your operating sy
 * Example repositories (p5.js) and their features:
     * branches
     * issues
-		* histories
-		* blame
-		* contributor list
+    * histories
+    * blame
+    * contributor list
