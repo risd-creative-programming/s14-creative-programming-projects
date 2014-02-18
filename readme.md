@@ -74,13 +74,14 @@ There will be remote check-in weeks on weeks there is no in-person class meeting
 
 ##Project Updates
 Add your name and project blog link here! 
+
 * JS Tan - http://happypoliticiansarehappy.tumblr.com
 * Scarlett Xin Meng - http://3333mm.tumblr.com
 * Wei Chen - blog link
 * Nick Penney - http://nckpnny.com/thesis
 * Saras Kalwani - blog link
 * Lauren Martin - larjarbinkz.tumblr.com
-
+* Brienne - TBD
 
 
 Students need to document their work online somewhere, on a site of their choice (blog, [tumblr](http://tumblr.com), [wordpress](http//wordpress.org), wiki, github, etc). A weekly update should be posted by the start of class time each week (regardless of whether there’s an in person meeting or not), including:
