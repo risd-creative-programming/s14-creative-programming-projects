@@ -98,6 +98,7 @@ from [git simple guide](http://rogerdudler.github.io/git-guide/)
 
 ####Syncing up your repository with the web
 At some point, after your pull request and other changes have been made to the main repository, you might want to pull these changes into your own local copy again.
+
 1. In Terminal, navigate into the folder of your project/repository.
 2. Type `git pull origin master`. 
 3. If there are any conflicts, Terminal will let you know the line numbers and files where these occurred. You can open them with a text editor and manually resolve any problems.
