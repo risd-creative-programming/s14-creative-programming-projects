@@ -3,7 +3,7 @@
 RISD Digital+Media, DM2130, Spring 2014  
 Mondays 1:10pm - 6:10pm, RM 407, CIT  
 Class website: [http://is.gd/dm2130](http://is.gd/dm2130)  
-Class mailing list: TBD
+Class mailing list: https://groups.google.com/a/risd.edu/forum/#!forum/risd-cp
 
 Evelyn Eastmond, [eeastmon01@risd.edu](mailto:eeastmon01@risd.edu)  
 Lauren McCarthy, [laurmccarthy@gmail.com](mailto:laurmccarthy@gmail.com)
