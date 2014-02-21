@@ -75,3 +75,30 @@ from [git simple guide](http://rogerdudler.github.io/git-guide/)
 * [list of tutorials](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
 * [git simple guide](http://rogerdudler.github.io/git-guide/)
 * [github guides](http://guides.github.com/)
+* 
+
+
+### STEP BY STEP: Make a change to someone else's repository and submit a pull request!
+
+#### Fork and clone and modify a repository (including first-time setup)
+1. Go to the github page of the repo you would like to modify.
+2. Click the "Fork" button in the upper right corner.
+3. Copy the link in the box right below "Settings" in the right side menu. It should look something like: `https://github.com/risd-creative-programming/s14-creative-programming-projects.git`
+4. On a mac, open Terminal (Applications > Terminal).
+5. Navigate to the folder you'd like your project to be. (See "Introduction to command line" above)
+6. Type `git clone https://github.com/risd-creative-programming/s14-creative-programming-projects.git`. You should see some output in Terminal indicating something is downloading.
+7. Use Finder to go to the folder where you put the project, you should see the project files (ex: readme.md, etc).
+8. Open these in any text editor and make your change, then save and close the file.
+9. In Terminal, type `git status`. You should see a list of modified files.
+10. Type `git add *` to add all modified files.
+11. Type `git commit -m "<your message here>"` to ready all of your files for sending to github. Fill in the message with something useful.
+12. Type `git push origin master` to push your changes to the web (github).
+13. Back on github, go to the page of your github repository. Click the "Pull Requests" item in the right side menu.
+14. Click the green "New Pull Request" button at the top of the page, and fill in the form, and submit. You're done!
+
+####Syncing up your repository with the web
+At some point, after your pull request and other changes have been made to the main repository, you might want to pull these changes into your own local copy again.
+1. In Terminal, navigate into the folder of your project/repository.
+2. Type `git pull origin master`. 
+3. If there are any conflicts, Terminal will let you know the line numbers and files where these occurred. You can open them with a text editor and manually resolve any problems.
+4. Repeat steps 10-14 above to push all sync'd changes to the web (github) again.
