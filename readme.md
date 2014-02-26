@@ -79,8 +79,8 @@ Add your name and project blog link here!
 * Scarlett Xin Meng - http://3333mm.tumblr.com
 * Wei Chen - blog link
 * Nick Penney - http://nckpnny.com/thesis
-* Saras Kalwani - blog link
-* Lauren Martin - larjarbinkz.tumblr.com
+* Saras Kalwani - http://students.risd.edu/students/skalwani/SarasBlog.html
+* Lauren Martin - http://larjarbinkz.tumblr.com
 * Brienne - TBD
 
 
