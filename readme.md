@@ -74,7 +74,6 @@ There will be remote check-in weeks on weeks there is no in-person class meeting
 
 ##Project Updates
 Add your name and project blog link here! 
-<<<<<<< HEAD
 
 * JS Tan - http://happypoliticiansarehappy.tumblr.com
 * Scarlett Xin Meng - http://3333mm.tumblr.com
