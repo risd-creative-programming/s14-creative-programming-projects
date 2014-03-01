@@ -83,6 +83,7 @@ Add your name and project blog link here!
 * Jenny - http://creativestallations.tumblr.com
 * Wei Chen - http://weather.weichendesign.com
 * Brienne - [thesis site](http://a.thesis.brienne.info/creative-programming-posts)
+* Kiho Suh - http://www.tumblr.com/blog/seoul358
 
 Students need to document their work online somewhere, on a site of their choice (blog, [tumblr](http://tumblr.com), [wordpress](http//wordpress.org), wiki, github, etc). A weekly update should be posted by the start of class time each week (regardless of whether there’s an in person meeting or not), including:
 
