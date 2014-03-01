@@ -59,7 +59,7 @@ This course is mostly self-directed.  As such, it will not contain many direct a
 - provide critical feedback to your peers' projects
 
 **In Person Meetings**  
-On **March 3** and **April 14** you will be expected to sign up for an in-person meeting with either Evelyn or Lauren to discuss your progress and technical hurdles.
+On **March 3** and **April 14** you will have an in-person meeting with either Evelyn or Lauren to discuss your progress and technical hurdles.
 
 **Check-ins**  
 On check-in weeks, you will be expected to either sign up for a remote check-in via Skype/GoogleHangout, chat or to send an email with your progress and any questions.
