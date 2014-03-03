@@ -75,7 +75,7 @@ There will be remote check-in weeks on weeks there is no in-person class meeting
 ##Project Updates
 Add your name and project blog link here! 
 
-* JS Tan - http://happypoliticiansarehappy.tumblr.com
+* JS Tan - http://artnotfound.tumblr.com/
 * Scarlett Xin Meng - http://cyberrubberduck.tumblr.com/
 * Nick Penney - http://nckpnny.com/thesis
 * Saras Kalwani - http://students.risd.edu/students/skalwani/SarasBlog.html
