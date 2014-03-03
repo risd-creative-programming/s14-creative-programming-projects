@@ -76,7 +76,7 @@ There will be remote check-in weeks on weeks there is no in-person class meeting
 Add your name and project blog link here! 
 
 * JS Tan - http://happypoliticiansarehappy.tumblr.com
-* Scarlett Xin Meng - http://3333mm.tumblr.com
+* Scarlett Xin Meng - http://cyberrubberduck.tumblr.com/
 * Nick Penney - http://nckpnny.com/thesis
 * Saras Kalwani - http://students.risd.edu/students/skalwani/SarasBlog.html
 * Lauren Martin - http://larjarbinkz.tumblr.com
@@ -84,6 +84,7 @@ Add your name and project blog link here!
 * Wei Chen - http://weather.weichendesign.com
 * Brienne - [thesis site](http://a.thesis.brienne.info/creative-programming-posts)
 * Kiho Suh - http://www.tumblr.com/blog/seoul358
+* Celine Chappert - http://buildinprogress.herokuapp.com/projects/835/steps
 
 Students need to document their work online somewhere, on a site of their choice (blog, [tumblr](http://tumblr.com), [wordpress](http//wordpress.org), wiki, github, etc). A weekly update should be posted by the start of class time each week (regardless of whether there’s an in person meeting or not), including:
 
