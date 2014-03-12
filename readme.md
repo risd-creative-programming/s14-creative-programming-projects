@@ -38,11 +38,11 @@ This course is a graduate-level hands-on creative-programming studio, supporting
         * 2. Break into subtasks and estimate time for each.  How long do you think each subtask will take you?  Be as honest as you can.
         * 3. Time the subtasks as you complete them throughout the week.
         * 4. Bring notes on your estimated and actual times to class on Monday.
-    * Readings
+    * **Readings:**
         * [Quora: Why are software development task estimations regularly off by a factor of 2-3?](http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3)
             * Read the top voted answer with 8.9k votes by Michael Wolfe
         * [Bocoup Blog: Time Estimation, Software, and Dinner](http://weblog.bocoup.com/time-estimation-software-and-dinner/)
-    * Project blog post
+    * **Project blog post**
 
 ####Week 5 - Mar 17: Workshop 2 (Estimation and Debugging)
 * Estimation and Debugging Workshop
