@@ -24,14 +24,14 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 
 ##Common errors
 
+__*"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."*__
+
 * [https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf](https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf)
 * **Compilation errors** -- Errors that stop your program from compiling. In Processing, openFrameworks, etc when you try to run the code will not compile and start. In JavaScript, the code will likely run until it hits the incorrect line in your code. Most compiler errors are caused by mistakes that you make when typing code. For example, you might misspell a keyword, leave out some necessary punctuation, or try to use an End If statement without first using an If statement.
 * **Runtime errors** -- Errors that occur while your program runs. These typically occur when your program attempts an operation that is impossible to carry out. An example of this is division by zero, an infinite for loop. Technically, all JS errors are runtime errors.
 * **Logic errors** -- Errors that prevent your program from doing what you intended it to do. Your code may compile and run without error, but the result of an operation may produce a result that you did not expect.
 
 ##Activity 1: Common errors
-
-*"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."*
 
 **Part 1**: As a group, create a list of common errors. (~10 mins)  
 * null pointer [http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F](http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F)
