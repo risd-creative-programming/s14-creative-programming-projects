@@ -1,7 +1,7 @@
 #Week 5 - Mar 17: Workshop 2
 #Creative Coding Best Practices
 
-##1. Time management
+##Time management
 
 ![](http://i.imgur.com/aQZHy.gif)
 
@@ -9,12 +9,12 @@
 Read the top voted answer with 8.9k votes by Michael Wolfe
 * [Bocoup Blog: Time Estimation, Software, and Dinner](http://weblog.bocoup.com/time-estimation-software-and-dinner/)
 
-##2. Version control
+##Version control
 
 * DIY -- copy the folder and rename with date.
 * Github
 
-##3. Code organization
+##Code organization
 
 * **Name well** -- Make sure variable names reflect what they describe on screen, class/object names reflect what they are, and function names reflect what they do.
 * **Comment** -- Describe what's going on in English your parents can understand. Go line-by-line in your code if you have to. The more self-explanatory your variable/function names, the simpler your comments can be. It may seem obvious to you at the moment, but if you come back to your code hours, days, weeks, years later, you will thank yourself!
@@ -22,7 +22,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 * **Modularize** -- Organize your code into functions so your code is easier to read and you can turn functionality on/off more easily. When your project starts to get larger, split your code into multiple files instead of having one really long file.
 * **Format** -- Format your code early and often, line up if blocks, for loops, and functions. This will help you (and anyone you ask for help) to see and understand what’s going on. (Cmd/ctrl+t in Processing will do it automatically for you!)
 
-##4. Common errors
+##Common errors
 
 * [https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf](https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf)
 * **Compilation errors** -- Errors that stop your program from compiling. In Processing, openFrameworks, etc when you try to run the code will not compile and start. In JavaScript, the code will likely run until it hits the incorrect line in your code. Most compiler errors are caused by mistakes that you make when typing code. For example, you might misspell a keyword, leave out some necessary punctuation, or try to use an End If statement without first using an If statement.
@@ -42,7 +42,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 
 **Part 2**: Each person picks one error. Create a diagram / illustration of the error. Could be more conceptual… should not be code example. Show diagram to class, explain what the error is, how to detect it, etc. (~20 mins)
 
-##4. Debugging strategies
+##Debugging strategies
 
 * **Error messages** -- Read the error messages. Don’t be worried if you don’t know what they mean, google can help you!
 * **Comment out** -- Temporarily comment chunks of code in and out to track down the problem area.
@@ -104,9 +104,11 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 
 ##Activity: Debug Competition
 
-* **Part 1**: Break into teams of 2 (make sure each group has one person that knows Processing or code well). Create a Processing sketch, and take a screenshot of the output. Then change only one line / insert one bug of the sketch code to “break” it. Broken could mean it won’t run or it looks wrong, compared to the screenshot you took. (~20 minutes)
-* **Part 2**: Each team of 2 will be given a different team’s sketch and desired output screenshot, and try to debug/unbreak it as fast as possible (get it to run and match the output of the screenshot). Repeat once more with another team’s sketch.  (~30 mins)
-* **Part 3**: We add up the times to debug each sketch, “winning team” is the team whose sketch took the longest / was the hardest to debug. Debrief and discuss. (~20 mins)
+**Part 1**: Break into teams of 2 (make sure each group has one person that knows Processing or code well). Create a Processing sketch, and take a screenshot of the output. Then change only one line / insert one bug of the sketch code to “break” it. Broken could mean it won’t run or it looks wrong, compared to the screenshot you took. (~20 minutes)
+
+**Part 2**: Each team of 2 will be given a different team’s sketch and desired output screenshot, and try to debug/unbreak it as fast as possible (get it to run and match the output of the screenshot). Repeat once more with another team’s sketch.  (~30 mins)
+
+**Part 3**: We add up the times to debug each sketch, “winning team” is the team whose sketch took the longest / was the hardest to debug. Debrief and discuss. (~20 mins)
     * What types of errors did we see?
     * Which were hardest to find?
     * Which were easiest?
