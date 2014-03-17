@@ -27,10 +27,10 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 * **Runtime errors** -- Errors that occur while your program runs. These typically occur when your program attempts an operation that is impossible to carry out. An example of this is division by zero, an infinite for loop. Technically, all JS errors are runtime errors.
 * **Logic errors** -- Errors that prevent your program from doing what you intended it to do. Your code may compile and run without error, but the result of an operation may produce a result that you did not expect.
 
-**Activity 1: common errors**
+###Activity 1: Common errors
 
 **Part 1**: As a group, create a list of common errors. (~10 mins)  
-* null pointer (http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F)
+* null pointer [http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F](http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F)
 * confusing = and ==
 * undeclared function
 * off by one error
@@ -46,67 +46,55 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 * **Simplify** -- Get rid of all code except for the bare minimum required to demonstrate what's going wrong.
 * **Print** -- Print out any and all values that might help you better understand what's going on. Label what you're printing using String concatenation.
 * **Talk it out** -- Find a friend and talk through your problem. They don’t necessarily need to completely understand your code. Sometimes just walking step by step through a problem can make you see a detail or solution you were overlooking.
-http://en.wikipedia.org/wiki/Rubber_duck_debugging
+    * [Rubber duck](debugging http://en.wikipedia.org/wiki/Rubber_duck_debugging)
 * **Ask for help** -- Don’t waste hours or days stuck on a problem. If you have tried all the above yourself and looked around online, ask for help. Places to ask include forums, IRC, mailing lists, classmates.
-* **Step by step** -- walk through this process. (Adapted from Clay Shirky’s A Brief Introduction to Debugging.)
+* **Step by step** -- walk through this process. (Adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit).)
 
-Preparation #1: Don’t panic. (Do take a deep breath.)
-Preparation #2: Take a snapshot. Don’t go backwards! Keep track of everything you try.
-Preparation #3: Write a message asking for help.
+**Preparation #1:** Don’t panic. (Do take a deep breath.)
+**Preparation #2:** Take a snapshot. Don’t go backwards! Keep track of everything you try.
+**Preparation #3:** Write a message asking for help.
 
-Looking #1: Is everything plugged in?
-Looking #2: What just changed?
-Looking #3: Read the code like a computer.
-Looking #4: What do the error messages say?
-Looking #5: LMGTFY
+**Looking #1:** Is everything plugged in?  
+**Looking #2:** What just changed?  
+**Looking #3:** Read the code like a computer  
+**Looking #4:** What do the error messages say?  
+**Looking #5:** LMGTFY  
+  
+**Changing #1:** Can you work from one end to the other?  
+**Changing #2:** Write your own error reporting  
+**Changing #3:** Process of Elimination  
+**Changing #4:** Are you looking at the same thing you are changing?  
+  
+**Defense #1:** Premature Optimization Is The Root of All Evil  
+**Defense #2:** Only do one thing at a time  
+**Defense #3:** Save working versions  
 
-Changing #1: Can you work from one end to the other?
-Changing #2: Write your own error reporting
-Changing #3: Process of Elimination 
-Changing #4: Are you looking at the same thing you are changing?
+* **Asking for help**
+    * Try something first. You should be asking for help, not a solution. 
+          [whathaveyoutried.com](www.whathaveyoutried.com)
+    * Narrow down the problem, create a miniature version that isolates what’s going wrong.
+    * Provide enough detail. Provide a specific, concise code example and error message if you have one.
+    * Don’t be lazy. Check for typos, silly mistakes. See step by step above.
+    * Be patient and not demanding.
 
-Defense #1: Premature Optimization Is The Root of All Evil
-Defense #2: Only do one thing at a time
-Defense #3: Save working versions.
+* More resources
+    * [How to ask for programming help](http://codingkilledthecat.wordpress.com/2012/06/26/how-to-ask-for-programming-help/)
+    * [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html)
+    * [Getting help on IRC](https://workaround.org/getting-help-on-irc)
 
+### Activity 2: Debug Competition
 
-Asking for help
+* **Part 1**: Break into teams of 2 (make sure each group has one person that knows Processing or code well). Create a Processing sketch, and take a screenshot of the output. Then change only one line / insert one bug of the sketch code to “break” it. Broken could mean it won’t run or it looks wrong, compared to the screenshot you took. (~20 minutes)
+* **Part 2**: Each team of 2 will be given a different team’s sketch and desired output screenshot, and try to debug/unbreak it as fast as possible (get it to run and match the output of the screenshot). Repeat once more with another team’s sketch.  (~30 mins)
+* **Part 3**: We add up the times to debug each sketch, “winning team” is the team whose sketch took the longest / was the hardest to debug. Debrief and discuss. (~20 mins)
+    * What types of errors did we see?
+    * Which were hardest to find?
+    * Which were easiest?
+    * What strategies did you use?
+    * How did we think about writing a sketch to be hard to debug / hide an error?
+    * What realizations did you have while creating or debugging?
 
-Try something first. You should be asking for help, not a solution. 
-whathaveyoutried.com
-
-Narrow down the problem, create a miniature version that isolates what’s going wrong.
-
-Provide enough detail. Provide a specific, concise code example and error message if you have one.
-
-Don’t be lazy. Check for typos, silly mistakes. See step by step above.
-
-Be patient and not demanding.
-
-More resources:
-
-How to ask for programming help
-How to ask questions the smart way
-Getting help on IRC
-
-
-Activity 2: debug competition
-
-Part 1: Break into teams of 2 (make sure each group has one person that knows Processing or code well). Create a Processing sketch, and take a screenshot of the output. Then change only one line / insert one bug of the sketch code to “break” it. Broken could mean it won’t run or it looks wrong, compared to the screenshot you took. (~20 minutes)
-
-Part 2: Each team of 2 will be given a different team’s sketch and desired output screenshot, and try to debug/unbreak it as fast as possible (get it to run and match the output of the screenshot). Repeat once more with another team’s sketch.  (~30 mins)
-
-Part 3: We add up the times to debug each sketch, “winning team” is the team whose sketch took the longest / was the hardest to debug. Debrief and discuss. (~20 mins)
-What types of errors did we see?
-Which were hardest to find?
-Which were easiest?
-What strategies did you use?
-How did we think about writing a sketch to be hard to debug / hide an error?
-What realizations did you have while creating or debugging?
-
-
-
-More resources
-Excellent article on how to approach problem-solving
-Clay Shirky's guide to the Basics of Debugging
-whathaveyoutried.com
+### More resources
+* Excellent article on [how to approach problem-solving](http://mattgemmell.com/2008/12/08/what-have-you-tried/)
+* Clay Shirky's guide to the [Basics of Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit)
+* [whathaveyoutried.com](www.whathaveyoutried.com)
