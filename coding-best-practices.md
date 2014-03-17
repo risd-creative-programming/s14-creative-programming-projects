@@ -90,6 +90,8 @@ __*"There are two hard things in computer science: cache invalidation, naming th
 + Only do one thing at a time  
 ![](http://i.imgur.com/B7pgyUi.gif)
 + Save working versions  
++ Take breaks -- sleeping on it or letting things process in your subconscious can help you arrive at an answer.
+![](http://25.media.tumblr.com/tumblr_mb5xneXFLU1rpyjpco1_250.gif)
 
 ###Be social
 + __Ask for help__ -- Don’t waste hours or days stuck on a problem. If you have tried all the above yourself and looked around online, ask for help. Places to ask include forums, IRC, mailing lists, classmates. See below for tips for asking for help.
