@@ -28,6 +28,8 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 
 __*"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."*__
 
+[Apple's 'gotofail' copy-paste bug in code leads to security flaw](http://news.cnet.com/8301-13579_3-57619510-37/apple-finally-fixes-gotofail-os-x-security-hole/)
+
 * [https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf](https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf)
 * **Human errors** -- It is always good to sanity check that you are actually running the code you expect to be running
     * Are you really running the correct file or program?
