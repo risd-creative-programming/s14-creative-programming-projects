@@ -31,6 +31,8 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 
 ##Activity 1: Common errors
 
+*"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."*
+
 **Part 1**: As a group, create a list of common errors. (~10 mins)  
 * null pointer [http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F](http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F)
 * confusing = and ==
