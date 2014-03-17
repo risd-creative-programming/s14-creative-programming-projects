@@ -33,7 +33,7 @@ __*"There are two hard things in computer science: cache invalidation, naming th
     * Are you really running the correct file or program?
     * Did you save the program before running it again?
     * Did you upload the latest version of your code before testing?
-    * Does your change actually supposed to be happening right now? (i.e. if you made a change to see purple during the evening hours, but it's still daytime, you won't see that change until later)
+    * Is your change actually supposed to be happening right now? (i.e. if you made a change to see purple during the evening hours, but it's still daytime, you won't see purple until later)
 * **Compilation errors** -- Errors that stop your program from compiling. In Processing, openFrameworks, etc when you try to run the code will not compile and start. In JavaScript, the code will likely run until it hits the incorrect line in your code. Most compiler errors are caused by mistakes that you make when typing code. For example, you might misspell a keyword, leave out some necessary punctuation, or try to use an End If statement without first using an If statement.
     * Unmatched braces / scope
     * Misspellings
