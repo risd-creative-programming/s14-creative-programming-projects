@@ -77,6 +77,7 @@ __*"There are two hard things in computer science: cache invalidation, naming th
 
 ###Change
 + Can you work from one end to the other?
+
 ![](http://imageshack.us/a/img189/6613/tumblrlp9vi5yi801qhjpk5.gif)
 + Write your own error reporting
 + Process of Elimination 
