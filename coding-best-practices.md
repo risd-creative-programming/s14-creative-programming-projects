@@ -3,7 +3,7 @@
 
 ###1. Time management
 
-* [Quora: Why are software development task estimations regularly off by a factor of 2-3?](http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3)
+* [Quora: Why are software development task estimations regularly off by a factor of 2-3?](http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3)  
 Read the top voted answer with 8.9k votes by Michael Wolfe
 * [Bocoup Blog: Time Estimation, Software, and Dinner](http://weblog.bocoup.com/time-estimation-software-and-dinner/)
 
@@ -46,14 +46,14 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 * **Simplify** -- Get rid of all code except for the bare minimum required to demonstrate what's going wrong.
 * **Print** -- Print out any and all values that might help you better understand what's going on. Label what you're printing using String concatenation.
 * **Talk it out** -- Find a friend and talk through your problem. They don’t necessarily need to completely understand your code. Sometimes just walking step by step through a problem can make you see a detail or solution you were overlooking.
-    * [Rubber duck](debugging http://en.wikipedia.org/wiki/Rubber_duck_debugging)
+    * [Rubber duck debugging](debugging http://en.wikipedia.org/wiki/Rubber_duck_debugging)
 * **Ask for help** -- Don’t waste hours or days stuck on a problem. If you have tried all the above yourself and looked around online, ask for help. Places to ask include forums, IRC, mailing lists, classmates.
 * **Step by step** -- walk through this process. (Adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit).)
 
-**Preparation #1:** Don’t panic. (Do take a deep breath.)
-**Preparation #2:** Take a snapshot. Don’t go backwards! Keep track of everything you try.
-**Preparation #3:** Write a message asking for help.
-
+**Preparation #1:** Don’t panic. (Do take a deep breath.)  
+**Preparation #2:** Take a snapshot. Don’t go backwards! Keep track of everything you try.  
+**Preparation #3:** Write a message asking for help.  
+  
 **Looking #1:** Is everything plugged in?  
 **Looking #2:** What just changed?  
 **Looking #3:** Read the code like a computer  
@@ -71,7 +71,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 
 * **Asking for help**
     * Try something first. You should be asking for help, not a solution. 
-          [whathaveyoutried.com](www.whathaveyoutried.com)
+          [whathaveyoutried.com](http://www.whathaveyoutried.com)
     * Narrow down the problem, create a miniature version that isolates what’s going wrong.
     * Provide enough detail. Provide a specific, concise code example and error message if you have one.
     * Don’t be lazy. Check for typos, silly mistakes. See step by step above.
@@ -97,4 +97,4 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 ### More resources
 * Excellent article on [how to approach problem-solving](http://mattgemmell.com/2008/12/08/what-have-you-tried/)
 * Clay Shirky's guide to the [Basics of Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit)
-* [whathaveyoutried.com](www.whathaveyoutried.com)
+* [whathaveyoutried.com](http://www.whathaveyoutried.com)
