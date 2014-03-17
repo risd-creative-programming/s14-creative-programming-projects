@@ -86,12 +86,13 @@ __*"There are two hard things in computer science: cache invalidation, naming th
 ###Change
 + Can you work from one end to the other?
 
-![](http://imageshack.us/a/img189/6613/tumblrlp9vi5yi801qhjpk5.gif)
+![](http://31.media.tumblr.com/d844d7209d5a9b01c1e79cc6fddc3329/tumblr_ms3lhghLxK1ql5yr7o1_400.gif)
 + Write your own error reporting
 + Process of Elimination 
      + Comment out -- Temporarily comment chunks of code in and out to track down the problem area.
      + Simplify -- Get rid of all code except for the bare minimum required to demonstrate what's going wrong.
 + Sanity check: are you looking at the same thing you are changing?
+![](http://imageshack.us/a/img189/6613/tumblrlp9vi5yi801qhjpk5.gif)
 
 ###Defend 
 + Premature Optimization Is The Root of All Evil  
