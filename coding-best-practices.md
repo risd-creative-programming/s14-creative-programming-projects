@@ -81,6 +81,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 ###Defend 
 + Premature Optimization Is The Root of All Evil  
 + Only do one thing at a time  
+! [](http://i.imgur.com/B7pgyUi.gif)
 + Save working versions  
 
 ###Be social
