@@ -84,9 +84,9 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 + Save working versions  
 
 ###Be social
-+ Ask for help -- Don’t waste hours or days stuck on a problem. If you have tried all the above yourself and looked around online, ask for help. Places to ask include forums, IRC, mailing lists, classmates. See below for tips for asking for help.
-+ Talk it out -- Find a friend and talk through your problem. They don’t necessarily need to completely understand your code. Sometimes just walking step by step through a problem can make you see a detail or solution you were overlooking.
-[rubber duck debugging](http://en.wikipedia.org/wiki/Rubber_duck_debugging)
++ __Ask for help__ -- Don’t waste hours or days stuck on a problem. If you have tried all the above yourself and looked around online, ask for help. Places to ask include forums, IRC, mailing lists, classmates. See below for tips for asking for help.
++ __Talk it out__ -- Find a friend and talk through your problem. They don’t necessarily need to completely understand your code. Sometimes just walking step by step through a problem can make you see a detail or solution you were overlooking.
+    + [Rubber duck debugging](http://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 
 ##Asking for help
