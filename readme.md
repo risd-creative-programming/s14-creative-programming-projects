@@ -45,7 +45,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
     * **Project blog post**
 
 ####Week 5 - Mar 17: Workshop 2 (Creative Coding Best Practices)
-* [Creative Coding Best Practices]()
+* [Creative Coding Best Practices](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/coding-best-practices.md)
     * Time Management
         * Discuss readings
         * Discuss estimation exercise
