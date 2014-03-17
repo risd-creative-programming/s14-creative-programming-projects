@@ -105,7 +105,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
     * [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html)
     * [Getting help on IRC](https://workaround.org/getting-help-on-irc)
 
-##Activity: Debug Competition
+##Activity 2: Debug Competition
 
 **Part 1**: Break into teams of 2 (make sure each group has one person that knows Processing or code well). Create a Processing sketch, and take a screenshot of the output. Then change only one line / insert one bug of the sketch code to “break” it. Broken could mean it won’t run or it looks wrong, compared to the screenshot you took. (~20 minutes)
 
