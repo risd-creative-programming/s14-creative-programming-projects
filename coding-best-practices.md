@@ -92,6 +92,7 @@ __*"There are two hard things in computer science: cache invalidation, naming th
      + Comment out -- Temporarily comment chunks of code in and out to track down the problem area.
      + Simplify -- Get rid of all code except for the bare minimum required to demonstrate what's going wrong.
 + Sanity check: are you looking at the same thing you are changing?
+
 ![](http://imageshack.us/a/img189/6613/tumblrlp9vi5yi801qhjpk5.gif)
 
 ###Defend 
