@@ -51,7 +51,6 @@ __*"There are two hard things in computer science: cache invalidation, naming th
 * off by one error
 * array out of bounds
 * arithmetic errors
-* 
 
 **Part 2**: Each person picks one error. Create a diagram / illustration of the error. Could be more conceptual… should not be code example. Show diagram to class, explain what the error is, how to detect it, etc. (~20 mins)
 
