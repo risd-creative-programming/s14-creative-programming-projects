@@ -112,12 +112,12 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 **Part 2**: Each team of 2 will be given a different team’s sketch and desired output screenshot, and try to debug/unbreak it as fast as possible (get it to run and match the output of the screenshot). Repeat once more with another team’s sketch.  (~30 mins)
 
 **Part 3**: We add up the times to debug each sketch, “winning team” is the team whose sketch took the longest / was the hardest to debug. Debrief and discuss. (~20 mins)
-    * What types of errors did we see?
-    * Which were hardest to find?
-    * Which were easiest?
-    * What strategies did you use?
-    * How did we think about writing a sketch to be hard to debug / hide an error?
-    * What realizations did you have while creating or debugging?
+* What types of errors did we see?
+* Which were hardest to find?
+* Which were easiest?
+* What strategies did you use?
+* How did we think about writing a sketch to be hard to debug / hide an error?
+* What realizations did you have while creating or debugging?
 
 ##More resources
 * Excellent article on [how to approach problem-solving](http://mattgemmell.com/2008/12/08/what-have-you-tried/)
