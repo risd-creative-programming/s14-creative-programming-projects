@@ -53,10 +53,11 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 * **Ask for help** -- Don’t waste hours or days stuck on a problem. If you have tried all the above yourself and looked around online, ask for help. Places to ask include forums, IRC, mailing lists, classmates.
 * **Step by step** -- walk through this process. (Adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit).)
 
-**Preparation #1:** Don’t panic. (Do take a deep breath.)  
+###Prepare
 
-**Preparation #2:** Take a snapshot. Don’t go backwards! Keep track of everything you try.  
-**Preparation #3:** Write a message asking for help.  
++ Don’t panic. (Do take a deep breath.)  
++ Take a snapshot. Don’t go backwards! Keep track of everything you try.  
++ Write a message asking for help.  
   
 ###Observe
 
@@ -69,6 +70,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 + LMGTFY
 + Print -- Print out any and all values that might help you better understand what's going on. Label what you're printing using String concatenation.
 
+###Change
 + Can you work from one end to the other?
 + Write your own error reporting
 + Process of Elimination 
@@ -76,30 +78,31 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
      + Simplify -- Get rid of all code except for the bare minimum required to demonstrate what's going wrong.
 + Sanity check: are you looking at the same thing you are changing?
 
-  
-**Changing #1:** Can you work from one end to the other?  
-**Changing #2:** Write your own error reporting  
-**Changing #3:** Process of Elimination  
-**Changing #4:** Are you looking at the same thing you are changing?  
-  
-**Defense #1:** Premature Optimization Is The Root of All Evil  
-**Defense #2:** Only do one thing at a time  
-**Defense #3:** Save working versions  
+###Defend 
++ Premature Optimization Is The Root of All Evil  
++ Only do one thing at a time  
++ Save working versions  
 
-* **Asking for help**
-    * Try something first. You should be asking for help, not a solution. 
+###Be social
++ Ask for help -- Don’t waste hours or days stuck on a problem. If you have tried all the above yourself and looked around online, ask for help. Places to ask include forums, IRC, mailing lists, classmates. See below for tips for asking for help.
++ Talk it out -- Find a friend and talk through your problem. They don’t necessarily need to completely understand your code. Sometimes just walking step by step through a problem can make you see a detail or solution you were overlooking.
+[rubber duck debugging](http://en.wikipedia.org/wiki/Rubber_duck_debugging)
+
+
+##Asking for help
+* Try something first. You should be asking for help, not a solution. 
           [whathaveyoutried.com](http://www.whathaveyoutried.com)
-    * Narrow down the problem, create a miniature version that isolates what’s going wrong.
-    * Provide enough detail. Provide a specific, concise code example and error message if you have one.
-    * Don’t be lazy. Check for typos, silly mistakes. See step by step above.
-    * Be patient and not demanding.
+* Narrow down the problem, create a miniature version that isolates what’s going wrong.
+* Provide enough detail. Provide a specific, concise code example and error message if you have one.
+* Don’t be lazy. Check for typos, silly mistakes. See step by step above.
+* Be patient and not demanding.
 
 * More resources
     * [How to ask for programming help](http://codingkilledthecat.wordpress.com/2012/06/26/how-to-ask-for-programming-help/)
     * [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html)
     * [Getting help on IRC](https://workaround.org/getting-help-on-irc)
 
-### Activity 2: Debug Competition
+##Activity: Debug Competition
 
 * **Part 1**: Break into teams of 2 (make sure each group has one person that knows Processing or code well). Create a Processing sketch, and take a screenshot of the output. Then change only one line / insert one bug of the sketch code to “break” it. Broken could mean it won’t run or it looks wrong, compared to the screenshot you took. (~20 minutes)
 * **Part 2**: Each team of 2 will be given a different team’s sketch and desired output screenshot, and try to debug/unbreak it as fast as possible (get it to run and match the output of the screenshot). Repeat once more with another team’s sketch.  (~30 mins)
@@ -111,7 +114,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
     * How did we think about writing a sketch to be hard to debug / hide an error?
     * What realizations did you have while creating or debugging?
 
-### More resources
+##More resources
 * Excellent article on [how to approach problem-solving](http://mattgemmell.com/2008/12/08/what-have-you-tried/)
 * Clay Shirky's guide to the [Basics of Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit)
 * [whathaveyoutried.com](http://www.whathaveyoutried.com)
