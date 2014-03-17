@@ -44,11 +44,15 @@ This course is a graduate-level hands-on creative-programming studio, supporting
         * [Bocoup Blog: Time Estimation, Software, and Dinner](http://weblog.bocoup.com/time-estimation-software-and-dinner/)
     * **Project blog post**
 
-####Week 5 - Mar 17: Workshop 2 (Estimation and Debugging)
-* Estimation and Debugging Workshop
-    * Discuss estimation exercise
-    * Discuss readings
-    * "Debugging Tips and Tricks"
+####Week 5 - Mar 17: Workshop 2 (Creative Coding Best Practices)
+* [Creative Coding Best Practices]()
+    * Time Management
+        * Discuss readings
+        * Discuss estimation exercise
+    * Version Control
+    * Code Organization
+    * Common Errors
+    * Debugging Strategies
 
 ####Week 6 - Mar 31: Midterm Critique & Workshop 3 (On Critiquing)
 
