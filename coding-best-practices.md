@@ -29,7 +29,16 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 __*"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."*__
 
 * [https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf](https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf)
+* **Human errors** -- It is always good to sanity check that you are actually running the code you expect to be running
+    * Are you really running the correct file or program?
+    * Did you save the program before running it again?
+    * Did you upload the latest version of your code before testing?
+    * Does your change actually supposed to be happening right now? (i.e. if you made a change to see purple during the evening hours, but it's still daytime, you won't see that change until later)
 * **Compilation errors** -- Errors that stop your program from compiling. In Processing, openFrameworks, etc when you try to run the code will not compile and start. In JavaScript, the code will likely run until it hits the incorrect line in your code. Most compiler errors are caused by mistakes that you make when typing code. For example, you might misspell a keyword, leave out some necessary punctuation, or try to use an End If statement without first using an If statement.
+    * Unmatched braces / scope
+    * Misspellings
+    * Variable not properly defined
+    * Variable not defined in the correct scope
 * **Runtime errors** -- Errors that occur while your program runs. These typically occur when your program attempts an operation that is impossible to carry out. An example of this is division by zero, an infinite for loop. Technically, all JS errors are runtime errors.
 * **Logic errors** -- Errors that prevent your program from doing what you intended it to do. Your code may compile and run without error, but the result of an operation may produce a result that you did not expect.
 
