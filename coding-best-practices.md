@@ -28,14 +28,14 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 
 __*"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."*__
 
-[Apple's 'gotofail' copy-paste bug in code leads to security flaw](http://news.cnet.com/8301-13579_3-57619510-37/apple-finally-fixes-gotofail-os-x-security-hole/)
-
 * [https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf](https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf)
 * **Human errors** -- It is always good to sanity check that you are actually running the code you expect to be running
     * Are you really running the correct file or program?
     * Did you save the program before running it again?
     * Did you upload the latest version of your code before testing?
     * Is your change actually supposed to be happening right now? (i.e. if you made a change to see purple during the evening hours, but it's still daytime, you won't see purple until later)
+    * Copy/paste errors -- If you copy and paste, make sure you are careful
+        * [Apple's 'gotofail' copy-paste bug in code leads to security flaw](http://news.cnet.com/8301-13579_3-57619510-37/apple-finally-fixes-gotofail-os-x-security-hole/)
 * **Compilation errors** -- Errors that stop your program from compiling. In Processing, openFrameworks, etc when you try to run the code will not compile and start. In JavaScript, the code will likely run until it hits the incorrect line in your code. Most compiler errors are caused by mistakes that you make when typing code. For example, you might misspell a keyword, leave out some necessary punctuation, or try to use an End If statement without first using an If statement.
     * Unmatched braces / scope
     * Misspellings
