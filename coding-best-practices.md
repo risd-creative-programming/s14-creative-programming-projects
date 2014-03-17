@@ -24,6 +24,8 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 
 ##Common errors
 
+![](http://i1087.photobucket.com/albums/j475/viniciusmiro/Gifs/tumblr_lk84kyJbMz1qbghjc.gif)
+
 __*"There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors."*__
 
 * [https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf](https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf)
@@ -58,6 +60,7 @@ __*"There are two hard things in computer science: cache invalidation, naming th
 ###Prepare
 
 + Don’t panic. (Do take a deep breath.)  
+![](http://i.imgur.com/LH1LO.gif)
 + Take a snapshot. Don’t go backwards! Keep track of everything you try.  
 + Write a message asking for help.  
   
