@@ -1,9 +1,7 @@
-##Week 5 - Mar 17: Workshop 2
-##Creative Coding Best Practices
+#Week 5 - Mar 17: Workshop 2
+#Creative Coding Best Practices
 
-![text](http://i.imgur.com/WIrUykX.gif)
-
-###1. Time management
+##1. Time management
 
 ![](http://i.imgur.com/aQZHy.gif)
 
@@ -11,12 +9,12 @@
 Read the top voted answer with 8.9k votes by Michael Wolfe
 * [Bocoup Blog: Time Estimation, Software, and Dinner](http://weblog.bocoup.com/time-estimation-software-and-dinner/)
 
-###2. Version control
+##2. Version control
 
 * DIY -- copy the folder and rename with date.
 * Github
 
-###3. Code organization
+##3. Code organization
 
 * **Name well** -- Make sure variable names reflect what they describe on screen, class/object names reflect what they are, and function names reflect what they do.
 * **Comment** -- Describe what's going on in English your parents can understand. Go line-by-line in your code if you have to. The more self-explanatory your variable/function names, the simpler your comments can be. It may seem obvious to you at the moment, but if you come back to your code hours, days, weeks, years later, you will thank yourself!
@@ -24,14 +22,14 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 * **Modularize** -- Organize your code into functions so your code is easier to read and you can turn functionality on/off more easily. When your project starts to get larger, split your code into multiple files instead of having one really long file.
 * **Format** -- Format your code early and often, line up if blocks, for loops, and functions. This will help you (and anyone you ask for help) to see and understand what’s going on. (Cmd/ctrl+t in Processing will do it automatically for you!)
 
-###3. Common errors
+##4. Common errors
 
 * [https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf](https://www.iiitd.edu.in/~jalote/papers/CommonBugs.pdf)
 * **Compilation errors** -- Errors that stop your program from compiling. In Processing, openFrameworks, etc when you try to run the code will not compile and start. In JavaScript, the code will likely run until it hits the incorrect line in your code. Most compiler errors are caused by mistakes that you make when typing code. For example, you might misspell a keyword, leave out some necessary punctuation, or try to use an End If statement without first using an If statement.
 * **Runtime errors** -- Errors that occur while your program runs. These typically occur when your program attempts an operation that is impossible to carry out. An example of this is division by zero, an infinite for loop. Technically, all JS errors are runtime errors.
 * **Logic errors** -- Errors that prevent your program from doing what you intended it to do. Your code may compile and run without error, but the result of an operation may produce a result that you did not expect.
 
-###Activity 1: Common errors
+##Activity 1: Common errors
 
 **Part 1**: As a group, create a list of common errors. (~10 mins)  
 * null pointer [http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F](http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F)
@@ -44,7 +42,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 
 **Part 2**: Each person picks one error. Create a diagram / illustration of the error. Could be more conceptual… should not be code example. Show diagram to class, explain what the error is, how to detect it, etc. (~20 mins)
 
-###4. Debugging strategies
+##4. Debugging strategies
 
 * **Error messages** -- Read the error messages. Don’t be worried if you don’t know what they mean, google can help you!
 * **Comment out** -- Temporarily comment chunks of code in and out to track down the problem area.
@@ -60,11 +58,24 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 **Preparation #2:** Take a snapshot. Don’t go backwards! Keep track of everything you try.  
 **Preparation #3:** Write a message asking for help.  
   
-**Looking #1:** Is everything plugged in?  
-**Looking #2:** What just changed?  
-**Looking #3:** Read the code like a computer  
-**Looking #4:** What do the error messages say?  
-**Looking #5:** LMGTFY  
+###Observe
+
+![text](http://i.imgur.com/WIrUykX.gif)
+
++ Is everything plugged in?
++ What just changed?
++ Read the code like a computer.
++ What do the error messages say? Read the error messages. Don’t be worried if you don’t know what they mean, google can help you!
++ LMGTFY
++ Print -- Print out any and all values that might help you better understand what's going on. Label what you're printing using String concatenation.
+
++ Can you work from one end to the other?
++ Write your own error reporting
++ Process of Elimination 
+     + Comment out -- Temporarily comment chunks of code in and out to track down the problem area.
+     + Simplify -- Get rid of all code except for the bare minimum required to demonstrate what's going wrong.
++ Sanity check: are you looking at the same thing you are changing?
+
   
 **Changing #1:** Can you work from one end to the other?  
 **Changing #2:** Write your own error reporting  
