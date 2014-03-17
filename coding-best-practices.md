@@ -1,7 +1,11 @@
 ##Week 5 - Mar 17: Workshop 2
 ##Creative Coding Best Practices
 
+![text](http://i.imgur.com/WIrUykX.gif)
+
 ###1. Time management
+
+![](http://i.imgur.com/aQZHy.gif)
 
 * [Quora: Why are software development task estimations regularly off by a factor of 2-3?](http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3)  
 Read the top voted answer with 8.9k votes by Michael Wolfe
@@ -36,6 +40,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 * off by one error
 * array out of bounds
 * arithmetic errors
+* 
 
 **Part 2**: Each person picks one error. Create a diagram / illustration of the error. Could be more conceptual… should not be code example. Show diagram to class, explain what the error is, how to detect it, etc. (~20 mins)
 
@@ -51,6 +56,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 * **Step by step** -- walk through this process. (Adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit).)
 
 **Preparation #1:** Don’t panic. (Do take a deep breath.)  
+
 **Preparation #2:** Take a snapshot. Don’t go backwards! Keep track of everything you try.  
 **Preparation #3:** Write a message asking for help.  
   
