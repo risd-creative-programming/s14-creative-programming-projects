@@ -90,6 +90,9 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 
 
 ##Asking for help
+
+![](https://31.media.tumblr.com/d586c5f898287597dc01facc77d7a8a4/tumblr_inline_mzjzs15gYy1qj3ir1.gif)
+
 * Try something first. You should be asking for help, not a solution. 
           [whathaveyoutried.com](http://www.whathaveyoutried.com)
 * Narrow down the problem, create a miniature version that isolates what’s going wrong.
