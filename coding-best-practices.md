@@ -20,7 +20,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 ##Version control
 
 * DIY -- copy the folder and rename with date.
-* Github
+* Github -- tutorial [here](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/exercise-github.md)
 
 ##Code organization
 
