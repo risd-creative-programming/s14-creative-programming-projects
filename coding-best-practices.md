@@ -5,6 +5,14 @@
 
 ![](http://i.imgur.com/aQZHy.gif)
 
+###Activity: 
+1. List out the technical tasks / todos you need to accomplish this week.
+2. Break into subtasks and estimate time for each. How long do you think each subtask will take you? Be as honest as you can.
+3. Time the subtasks as you complete them throughout the week.
+4. Bring notes on your estimated and actual times to class to discuss.
+
+![](http://imgur.com/PzqpYuM)
+
 * [Quora: Why are software development task estimations regularly off by a factor of 2-3?](http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3)  
 Read the top voted answer with 8.9k votes by Michael Wolfe
 * [Bocoup Blog: Time Estimation, Software, and Dinner](http://weblog.bocoup.com/time-estimation-software-and-dinner/)
@@ -41,19 +49,17 @@ __*"There are two hard things in computer science: cache invalidation, naming th
     * Misspellings
     * Variable not properly defined
     * Variable not defined in the correct scope
-* **Runtime errors** -- Errors that occur while your program runs. These typically occur when your program attempts an operation that is impossible to carry out. An example of this is division by zero, an infinite for loop. Technically, all JS errors are runtime errors.
+    * Undeclared function
+* **Runtime errors** -- Errors that occur while your program runs. These typically occur when your program attempts an operation that is impossible to carry out. Technically, all JS errors are runtime errors.
+    * Division by zero
+    * Infinite for loop. 
 * **Logic errors** -- Errors that prevent your program from doing what you intended it to do. Your code may compile and run without error, but the result of an operation may produce a result that you did not expect.
-
-##Activity 1: Common errors
-
-**Part 1**: As a group, create a list of common errors. (~10 mins)  
-* null pointer [http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F](http://wiki.processing.org/w/Why_do_I_get_a_NullPointerException%3F)
-* confusing = and ==
-* undeclared function
-* off by one error
-* array out of bounds
-* arithmetic errors
-
+    * Confusing = and ==
+    * Off by one error
+    * Array out of bounds error
+    * Arithmetic errors
+    * Scope issues, referencing wrong variables
+ 
 **Part 2**: Each person picks one error. Create a diagram / illustration of the error. Could be more conceptual… should not be code example. Show diagram to class, explain what the error is, how to detect it, etc. (~20 mins)
 
 ##Debugging strategies
