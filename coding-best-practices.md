@@ -11,7 +11,7 @@
 3. Time the subtasks as you complete them throughout the week.
 4. Bring notes on your estimated and actual times to class to discuss.
 
-![](http://imgur.com/PzqpYuM)
+![](http://i.imgur.com/PzqpYuM.jpg)
 
 * [Quora: Why are software development task estimations regularly off by a factor of 2-3?](http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3)  
 Read the top voted answer with 8.9k votes by Michael Wolfe
