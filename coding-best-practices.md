@@ -147,6 +147,7 @@ __*"There are two hard things in computer science: cache invalidation, naming th
 * What types of errors did we see?
 * Which were hardest to find?
 * Which were easiest?
+* What makes a program hard to debug?
 * What strategies did you use?
 * How did we think about writing a sketch to be hard to debug / hide an error?
 * What realizations did you have while creating or debugging?
