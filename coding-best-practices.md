@@ -100,7 +100,9 @@ __*"There are two hard things in computer science: cache invalidation, naming th
 ###Defend 
 + Premature Optimization Is The Root of All Evil  
 + Only do one thing at a time.
+ 
 ![](http://i.imgur.com/B7pgyUi.gif)
+
 + Save working versions! On different hard drives / machines!
 + Write tests / examples to ensure it keeps working, doesn't break when you're not looking.
 + Take breaks -- sleeping on it or letting things process in your subconscious can help you arrive at an answer.
