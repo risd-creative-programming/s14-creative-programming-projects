@@ -64,14 +64,7 @@ __*"There are two hard things in computer science: cache invalidation, naming th
 
 ##Debugging strategies
 
-* **Error messages** -- Read the error messages. Don’t be worried if you don’t know what they mean, google can help you!
-* **Comment out** -- Temporarily comment chunks of code in and out to track down the problem area.
-* **Simplify** -- Get rid of all code except for the bare minimum required to demonstrate what's going wrong.
-* **Print** -- Print out any and all values that might help you better understand what's going on. Label what you're printing using String concatenation.
-* **Talk it out** -- Find a friend and talk through your problem. They don’t necessarily need to completely understand your code. Sometimes just walking step by step through a problem can make you see a detail or solution you were overlooking.
-    * [Rubber duck debugging](debugging http://en.wikipedia.org/wiki/Rubber_duck_debugging)
-* **Ask for help** -- Don’t waste hours or days stuck on a problem. If you have tried all the above yourself and looked around online, ask for help. Places to ask include forums, IRC, mailing lists, classmates.
-* **Step by step** -- walk through this process. (Adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit).)
+Parts adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit).
 
 ###Prepare
 
