@@ -5,7 +5,7 @@
 
 ![](http://i.imgur.com/aQZHy.gif)
 
-###Activity: 
+###Activity: time estimation
 1. List out the technical tasks / todos you need to accomplish this week.
 2. Break into subtasks and estimate time for each. How long do you think each subtask will take you? Be as honest as you can.
 3. Time the subtasks as you complete them throughout the week.
@@ -137,7 +137,7 @@ __*"There are two hard things in computer science: cache invalidation, naming th
     * [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html)
     * [Getting help on IRC](https://workaround.org/getting-help-on-irc)
 
-##Activity 2: Debug Competition
+##Activity: debug competition
 
 **Part 1**: Break into teams of 2 (make sure each group has one person that knows Processing or code well). Create a Processing sketch, and take a screenshot of the output. Then change only one line / insert one bug of the sketch code to “break” it. Broken could mean it won’t run or it looks wrong, compared to the screenshot you took. (~20 minutes)
 
