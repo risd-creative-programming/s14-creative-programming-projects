@@ -44,7 +44,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
         * [Bocoup Blog: Time Estimation, Software, and Dinner](http://weblog.bocoup.com/time-estimation-software-and-dinner/)
     * **Project blog post**
 
-####Week 5 - Mar 17: Workshop 2 (Creative Coding Best Practices)
+####Week 5 - Mar 17: [Workshop 2 (Creative Coding Best Practices)](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/coding-best-practices.md)
 * [Creative Coding Best Practices](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/coding-best-practices.md)
     * Time Management
         * Discuss readings
@@ -53,6 +53,9 @@ This course is a graduate-level hands-on creative-programming studio, supporting
     * Code Organization
     * Common Errors
     * Debugging Strategies
+    * __Homework (DUE March 17):__
+        * Prepare for the midterm on march 31. You will have 15 minutes for presentation and feedback. You decide the format for your review and lead us through it. Think about what you hope to get out of the review and how you will elicit this feedback. Have in mind a few questions that you hope to find answers to. Make sure you have explicitly decided on the format before class, don't just wing it! After the reviews we will have a meta-discussion about the different types of crits we tried, how they worked, which feedback was helpful, next steps, etc.
+        * **Project blog post**
 
 ####Week 6 - Mar 31: Midterm Critique & Workshop 3 (On Critiquing)
 
