@@ -152,7 +152,6 @@ Parts adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://d
 
 
 ##Tools
-Tools
 * Checking code: [JSLint](http://www.jslint.com/) / [JSHint](http://www.jshint.com)
 * Debugging: Chrome Developer Tools ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / Firebug ([tutorial](http://www.developerfusion.com/article/139949/debugging-javascript-with-firebug/))
 * Sharing code snippets: [gist.github.com](http://gist.github.com)
