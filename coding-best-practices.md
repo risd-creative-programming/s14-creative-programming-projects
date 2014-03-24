@@ -149,3 +149,12 @@ Parts adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://d
 * Excellent article on [how to approach problem-solving](http://mattgemmell.com/2008/12/08/what-have-you-tried/)
 * Clay Shirky's guide to the [Basics of Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit)
 * [whathaveyoutried.com](http://www.whathaveyoutried.com)
+
+
+##Tools
+Tools
+* Checking code: [JSLint](http://www.jslint.com/) / [JSHint](http://www.jshint.com)
+* Debugging: Chrome Developer Tools ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / Firebug ([tutorial](http://www.developerfusion.com/article/139949/debugging-javascript-with-firebug/))
+* Sharing code snippets: [gist.github.com](http://gist.github.com)
+
+
