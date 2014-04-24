@@ -29,11 +29,11 @@ GitLab
 
 ### Popular creative coding open source projects and conferences
 
-Processing 
-Arduino 
-openFrameworks 
-OpenHardware Initiative 
-OpenVisConf 
+Processing  
+Arduino  
+openFrameworks  
+OpenHardware Initiative  
+OpenVisConf  
 
 ##Activity: OSS and Art + Design
 1. Pair up with someone *not* from your major
