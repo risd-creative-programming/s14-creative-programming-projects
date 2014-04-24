@@ -4,7 +4,7 @@
 
 ### What is open source software?
 
-* History - 
+* History - Linux! etc.
 * Definition - 
 * Licensing - 
 * Community - 
@@ -44,8 +44,8 @@ OpenVisConf
     * What does "Open Source" mean in your field?
     * Is intellectual property typically freely shared, or highly guarded?
     * What are the financial implications of openness in your field's industry?
-    * Is your in your field usually done alone or in teams?
-    * How easy is it to find information about your design or craft in libraries, the Internet?
+    * Is work in your field usually done alone or in teams?
+    * How easy is it to find information about your design or craft in libraries, or on the Internet?
     * How easy is it to access key players in your field?
 4. As pairs, present your partner's findings to the class
 
