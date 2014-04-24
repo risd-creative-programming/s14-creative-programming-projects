@@ -54,7 +54,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
     * Common Errors
     * Debugging Strategies
     * __Homework (DUE March 17):__
-        * **Prepare for the midterm on march 31.** You will have 15 minutes for presentation and feedback. You decide the format for your review and lead us through it. Think about what you hope to get out of the review and how you will elicit this feedback. Have in mind a few questions that you hope to find answers to. Give us a sense of what you've done so far, and where you're hoping to get to by the end of the semester. **Give us something to react to.** Make sure you have explicitly decided on the format before class, don't just wing it! After the reviews we will have a meta-discussion about the different types of crits we tried, how they worked, which feedback was helpful, next steps, etc.
+        * **Prepare for the midterm on March 31.** You will have 15 minutes for presentation and feedback. You decide the format for your review and lead us through it. Think about what you hope to get out of the review and how you will elicit this feedback. Have in mind a few questions that you hope to find answers to. Give us a sense of what you've done so far, and where you're hoping to get to by the end of the semester. **Give us something to react to.** Make sure you have explicitly decided on the format before class, don't just wing it! After the reviews we will have a meta-discussion about the different types of crits we tried, how they worked, which feedback was helpful, next steps, etc.
         * **Project blog post**
 
 ####Week 6 - Mar 31: Midterm Critique & Workshop 3 (On Critiquing)
@@ -65,7 +65,15 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ####Week 9 - Apr 21: Check-in
 
-####Week 10 - Apr 28: Workshop 4 (Open Source Software)
+####Week 10 - Apr 28: [Workshop 4 (Open Source Software)](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/open-source.md)
+* Readings:
+    * [The Open Source Definition](http://opensource.org/osd)
+    * [How Open Source is Disrupting Visual Art](http://thecreatorsproject.vice.com/blog/how-open-source-is-disrupting-visual-art)
+* In Class:
+    * What is Open Source Software?
+    * How does OSS relate to interdisciplinary art & design fields?
+    * Pair presentations
+    * Discussion
 
 ####Week 11 - May 5: Check-in
 
