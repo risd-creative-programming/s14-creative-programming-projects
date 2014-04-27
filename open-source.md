@@ -88,6 +88,8 @@ GitLab
 * social soul
 * evhan55's GitHub  
 * lmccart's GitHub
+* [radiohead house of cards - aaron koblin](http://www.aaronkoblin.com/work/rh/) - [code](https://code.google.com/p/radiohead/)
+* [perfume global -- daito manabe / rhizomatics](http://perfume-global.com/) - [contributed versions](http://perfume-global.com/project.html)
 
 *Conferences*
 * OpenHardware Summit
