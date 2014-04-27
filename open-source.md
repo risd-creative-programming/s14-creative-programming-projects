@@ -98,6 +98,7 @@ GitLab
 * OpenHardware Summit
 * Art && Code
 * OpenVisConf
+* [Eyeo, a conversation with toolmakers](https://vimeo.com/70833521)
 
 ### Related Initiatives
 
