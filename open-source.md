@@ -47,6 +47,7 @@ Licenses are typically concerned with:
 How to choose a license for your project
   - [http://choosealicense.com/](http://choosealicense.com/)
   - [http://www.what-license.com/](http://www.what-license.com/)
+  - [creative commons](http://creativecommons.org/)
 
 ### Where to find OSS projects
 
