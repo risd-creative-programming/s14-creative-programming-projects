@@ -88,9 +88,9 @@ GitLab
 * social soul
 * evhan55's GitHub  
 * lmccart's GitHub
-* [radiohead house of cards - aaron koblin](http://www.aaronkoblin.com/work/rh/) - released depth data [code](https://code.google.com/p/radiohead/)
-* [perfume global -- daito manabe / rhizomatics](http://perfume-global.com/) - released mocap data [contributed versions](http://perfume-global.com/project.html)
-* [wtf - okgo](http://okgo.net/2010/01/20/wtf-video-remix-project/) - [remixes](https://www.youtube.com/results?search_query=okgo+wtf+remix) - [memo akten's processing how to](http://www.memo.tv/okgo-wtf-effect/)
+* [radiohead house of cards, aaron koblin](http://www.aaronkoblin.com/work/rh/) - released depth data [code](https://code.google.com/p/radiohead/)
+* [perfume global, daito manabe / rhizomatics](http://perfume-global.com/) - released mocap data [contributed versions](http://perfume-global.com/project.html)
+* [wtf, okgo](http://okgo.net/2010/01/20/wtf-video-remix-project/) - [remixes](https://www.youtube.com/results?search_query=okgo+wtf+remix) - [memo akten's processing how to](http://www.memo.tv/okgo-wtf-effect/)
 
 *Conferences*
 * OpenHardware Summit
