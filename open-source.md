@@ -82,7 +82,8 @@ GitLab
 * David Mellis's work
 * OpenHardware Initiative  
 * http://fffff.at/  
-    * https://www.youtube.com/watch?v=-b0rlJvO1BQ  
+    * https://www.youtube.com/watch?v=-b0rlJvO1BQ
+* [thingiverse](thingiverse.com)
 
 *Art Projects*
 * http://www.cooperhewitt.org/planetary-bloom  
