@@ -68,40 +68,43 @@ GitLab
 * Even Microsoft!
     * http://www.microsoft.com/en-us/openness/default.aspx#home  
     * http://msopentech.com/projects/ 
-#### Libraries and Toolkits
-    * p5.js
-    * openFrameworks
-    * Processing
-    * Arduino
-    * vvvv
-    * etc.
-#### Initiatives and Collectives
-    * David Mellis's work
-    * OpenHardware Initiative  
-    * http://fffff.at/  
+
+*Libraries and Toolkits*
+* p5.js
+* openFrameworks
+* Processing
+* Arduino
+* vvvv
+* etc.
+
+*Initiatives and Collectives*
+* David Mellis's work
+* OpenHardware Initiative  
+* http://fffff.at/  
     * https://www.youtube.com/watch?v=-b0rlJvO1BQ  
-#### Art projects
-    * http://www.cooperhewitt.org/planetary-bloom  
-    * social soul
-    * evhan55's GitHub  
-    * lmccart's GitHub
-#### Conferences
-    * OpenHardware Summit
-    * Art && Code
-    * OpenVisConf
-    
-   
-  
+
+*Art Projects*
+* http://www.cooperhewitt.org/planetary-bloom  
+* social soul
+* evhan55's GitHub  
+* lmccart's GitHub
+
+*Conferences*
+* OpenHardware Summit
+* Art && Code
+* OpenVisConf
 
 ### Related Initiatives
 
 #### Creative Commons
 
-http://www.lessig.org/    Lawrence Lessig
+The idea of Open Source applied to the creation distribution of media.
 
-The idea of Open Source applied to creation of media.  
-http://opendesignnow.org/
-Ze Frank video?  
+* Lawrence Lessig http://www.lessig.org/
+* http://opendesignnow.org
+* Creative Commons website and search engines
+    * for fonts, icons, SVG files, images, songs, etc
+* Ze Frank video?  
 
 #### Free Software Foundation
 
