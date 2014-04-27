@@ -58,16 +58,16 @@ GitLab
 ### Creative Software/Coding + Open Source
 
 *Software*
-    * Gimp
-    * Inkscape
-    * Scribus
-    * Mozilla Firefox OS
-    * Even Adobe has some:
-        * snapsvg.io
-        * brackets.io
-    * Even Microsoft!
-        * http://www.microsoft.com/en-us/openness/default.aspx#home  
-        * http://msopentech.com/projects/ 
+* Gimp
+* Inkscape
+* Scribus
+* Mozilla Firefox OS
+* Even Adobe has some:
+    * snapsvg.io
+    * brackets.io
+* Even Microsoft!
+    * http://www.microsoft.com/en-us/openness/default.aspx#home  
+    * http://msopentech.com/projects/ 
 #### Libraries and Toolkits
     * p5.js
     * openFrameworks
