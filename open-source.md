@@ -4,10 +4,22 @@
 
 ### What is open source software?
 
-* History - EFF, Stallman, Linux, etc.
-* Definition - 
-* How it disrupts distribution - software subscription models instead of packages, support, software as a service
-* Licensing - 
+[The Open Source Initiative](http://opensource.org/)
+
+* History
+    * Netscape web browser source code released in 1998 for 'pragmatic, business-case' reasons
+    * 'Open Source' coined in a meeting in February 1998 to help distinguish this new practice of releasing code that Netscape, Linux and others were beginning to bring to the mainstream.
+* Definition
+    * Open source software is software that can be freely used, changed, and shared (in modified or unmodified form) by anyone. Open source software is made by many people, and distributed under licenses that comply with the Open Source Definition.
+    * [The Open Source Definition](http://opensource.org/osd)
+* How it disrupts distribution
+    * Software subscription models instead of buying single applications that become outdated
+    * Instead of charging for the software, charge for technical support, extra plugins and services around the software
+    * Software As A Service (SAAS)
+* Licensing
+    * The license for a project determines how it can get reused, sold or distributed
+    * Licensing has typically been confusing to think about and usually ends up in a gray area
+    * Mostly important to cover basic legal rights
 * Community - remixing, learning
 * Culture - adoption by other fields, government, wikipedia etc.
     - http://www.cityofboston.gov/open/
@@ -57,11 +69,19 @@ openFrameworks
 OpenHardware Initiative  
 OpenVisConf  
 
-### Creative Commons
+### Related Initiatives
+
+#### Creative Commons
+
+http://www.lessig.org/    Lawrence Lessig
 
 The idea of Open Source applied to creation of media.  
 http://opendesignnow.org/
 Ze Frank video?  
+
+#### Free Software Foundation
+
+Stallman?  
 
 ##Activity: OSS and Art + Design
 1. Pair up with someone *not* from your major
