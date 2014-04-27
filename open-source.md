@@ -29,7 +29,9 @@
             * [White House Open Government Initiative](http://www.whitehouse.gov/open)
             * [City of Boston | Open Government](http://www.cityofboston.gov/open/)
         * Education
-            * Wikipedia
+            * [Wikipedia](http://www.wikipedia.org)
+        * Music
+            * Beck's release of his sheet music
 
 
 ### Licensing
