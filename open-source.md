@@ -57,11 +57,17 @@ GitLab
 
 ### Creative Software/Coding + Open Source
 
-#### Software
+*Software*
     * Gimp
     * Inkscape
     * Scribus
     * Mozilla Firefox OS
+    * Even Adobe has some:
+        * snapsvg.io
+        * brackets.io
+    * Even Microsoft!
+        * http://www.microsoft.com/en-us/openness/default.aspx#home  
+        * http://msopentech.com/projects/ 
 #### Libraries and Toolkits
     * p5.js
     * openFrameworks
@@ -70,23 +76,21 @@ GitLab
     * vvvv
     * etc.
 #### Initiatives and Collectives
+    * David Mellis's work
     * OpenHardware Initiative  
     * http://fffff.at/  
     * https://www.youtube.com/watch?v=-b0rlJvO1BQ  
 #### Art projects
     * http://www.cooperhewitt.org/planetary-bloom  
+    * social soul
+    * evhan55's GitHub  
+    * lmccart's GitHub
 #### Conferences
     * OpenHardware Summit
     * Art && Code
     * OpenVisConf
     
-evhan55's GitHub  
-lmccart's GitHub  
-http://www.microsoft.com/en-us/openness/default.aspx#home  
-http://msopentech.com/projects/  
-    - http://snapsvg.io/
-    - http://brackets.io/
-David Mellis's work  
+   
   
 
 ### Related Initiatives
