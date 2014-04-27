@@ -1,6 +1,6 @@
 #Week 5 - Apr 28: Workshop 4
 
-##Open Source Software
+##Open Source Software (OSS)
 
 ### What is open source software?
 
@@ -20,13 +20,17 @@
     * The license for a project determines how it can get reused, sold or distributed
     * Licensing has typically been confusing to think about and usually ends up in a gray area
     * Mostly important to cover basic legal rights
-* Community - remixing, learning
-* Culture - adoption by other fields, government, wikipedia etc.
-    - http://www.cityofboston.gov/open/
-    - http://www.microsoft.com/en-us/openness/default.aspx#home
-    - http://msopentech.com/projects/
-    - http://snapsvg.io/
-    - http://brackets.io/
+* Community
+    * OSS cultivates a culture of learning from each other, and remixing ideas
+    * Software is meant to be thought of as a shared knowledge as opposed to a commodity
+* Culture
+    * The notion of openness and transparency has been adopted by other fields:
+        * Government
+            * [White House Open Government Initiative](http://www.whitehouse.gov/open)
+            * [City of Boston | Open Government](http://www.cityofboston.gov/open/)
+        * Education
+            * Wikipedia
+
 
 ### Licensing
 
@@ -50,6 +54,10 @@ Bocoup
 Mozilla Firefox OS  
 evhan55's GitHub  
 lmccart's GitHub  
+    - http://www.microsoft.com/en-us/openness/default.aspx#home
+    - http://msopentech.com/projects/
+    - http://snapsvg.io/
+    - http://brackets.io/
 
 ### Where to find OSS projects
 
