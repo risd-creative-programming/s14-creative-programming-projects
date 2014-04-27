@@ -48,19 +48,6 @@ How to choose a license for your project
   - [http://choosealicense.com/](http://choosealicense.com/)
   - [http://www.what-license.com/](http://www.what-license.com/)
 
-### Example OSS projects
-
-p5.js  
-http://www.cooperhewitt.org/planetary-bloom  
-Bocoup  
-Mozilla Firefox OS  
-evhan55's GitHub  
-lmccart's GitHub  
-    - http://www.microsoft.com/en-us/openness/default.aspx#home
-    - http://msopentech.com/projects/
-    - http://snapsvg.io/
-    - http://brackets.io/
-
 ### Where to find OSS projects
 
 GitHub  
@@ -68,16 +55,39 @@ Bitbucket
 Google Code  
 GitLab 
 
-### Popular creative coding open source projects, collectives and conferences
+### Creative Software/Coding + Open Source
 
-http://fffff.at/  
-https://www.youtube.com/watch?v=-b0rlJvO1BQ  
-Processing  
-Arduino  
+#### Software
+    * Gimp
+    * Inkscape
+    * Scribus
+    * Mozilla Firefox OS
+#### Libraries and Toolkits
+    * p5.js
+    * openFrameworks
+    * Processing
+    * Arduino
+    * vvvv
+    * etc.
+#### Initiatives and Collectives
+    * OpenHardware Initiative  
+    * http://fffff.at/  
+    * https://www.youtube.com/watch?v=-b0rlJvO1BQ  
+#### Art projects
+    * http://www.cooperhewitt.org/planetary-bloom  
+#### Conferences
+    * OpenHardware Summit
+    * Art && Code
+    * OpenVisConf
+    
+evhan55's GitHub  
+lmccart's GitHub  
+http://www.microsoft.com/en-us/openness/default.aspx#home  
+http://msopentech.com/projects/  
+    - http://snapsvg.io/
+    - http://brackets.io/
 David Mellis's work  
-openFrameworks  
-OpenHardware Initiative  
-OpenVisConf  
+  
 
 ### Related Initiatives
 
