@@ -127,9 +127,9 @@ The idea of Open Source applied to the creation and distribution of media.
 ##Activity: OSS and Art + Design
 1. Pair up with someone *not* from your major
 2. Finish and discuss the readings:
-    * [Ze Frank the show: 07-14-06](http://www.zefrank.com/thewiki/the_show:_07-14-06)
     * [The Open Source Definition](http://opensource.org/osd)
     * [How Open Source is Disrupting Visual Art](http://thecreatorsproject.vice.com/blog/how-open-source-is-disrupting-visual-art)
+    * [Ze Frank the show: 07-14-06](http://www.zefrank.com/thewiki/the_show:_07-14-06)
 3. Discuss with each other how the readings and the terminology in them relates to your field or department.  Questions to consider:
     * What does "Open Source" mean in your field?
     * Is intellectual property typically freely shared, or highly guarded?
