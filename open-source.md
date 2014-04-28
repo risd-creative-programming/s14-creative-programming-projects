@@ -32,7 +32,7 @@
             * [Wikipedia](http://www.wikipedia.org)
             * [MIT Open CourseWare](http://ocw.mit.edu/index.htm)
         * Music
-            * Beck's release of his sheet music
+            * [Beck releases 'Song Reader' album as sheet music](http://www.npr.org/2012/12/29/168263920/beck-explains-song-reader-an-album-fans-perform-themselves)
 
 
 ### Licensing
