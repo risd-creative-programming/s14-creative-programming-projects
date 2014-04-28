@@ -82,6 +82,7 @@ How to choose a license for your project
 * [NodeBox](http://nodebox.net/)
 
 *Open Hardware*
+![](http://web.media.mit.edu/~mellis/fabfm/fabfm384.jpg)
 * [David Mellis](http://web.media.mit.edu/~mellis/)
     * [DIY Cellphone](http://web.media.mit.edu/~mellis/cellphone/)
     * [Fab FM](http://web.media.mit.edu/~mellis/fabfm/)
