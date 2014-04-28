@@ -90,15 +90,15 @@ How to choose a license for your project
 * [thingiverse](thingiverse.com)
 
 *Art Projects*
-* http://www.cooperhewitt.org/planetary-bloom  
-* social soul
-* evhan55's GitHub  
-* lmccart's GitHub
+* [Planetary](http://www.cooperhewitt.org/planetary-bloom)
+    * First open source art project to go into a museum collection
+* [Lauren McCarthy's GitHub](https://github.com/lmccart)
+* [Kyle McDonald's GitHub](https://github.com/kylemcdonald)
 * [radiohead house of cards, aaron koblin](http://www.aaronkoblin.com/work/rh/) - released depth data [code](https://code.google.com/p/radiohead/)
 * [perfume global, daito manabe / rhizomatics](http://perfume-global.com/) - released mocap data [contributed versions](http://perfume-global.com/project.html)
 * [wtf, okgo](http://okgo.net/2010/01/20/wtf-video-remix-project/) - [remixes](https://www.youtube.com/results?search_query=okgo+wtf+remix) - [memo akten's processing how to](http://www.memo.tv/okgo-wtf-effect/)
-* http://fffff.at/  
-    * https://www.youtube.com/watch?v=-b0rlJvO1BQ
+* [FFFFFAT](http://fffff.at/)
+    * [https://www.youtube.com/watch?v=-b0rlJvO1BQ](https://www.youtube.com/watch?v=-b0rlJvO1BQ)
 
 *Conferences*
 * OpenHardware Summit
