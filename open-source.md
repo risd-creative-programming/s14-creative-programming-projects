@@ -52,36 +52,39 @@ How to choose a license for your project
 
 ### Where to find OSS projects
 
-GitHub  
-Bitbucket  
-Google Code  
-GitLab 
+* [GitHub](http://www.github.com)
+* [Bitbucket](http://www.bitbucket.com)
+* [Google Code](https://code.google.com/)
+* [GitLab](https://www.gitlab.com/)
 
 ### Creative Software/Coding + Open Source
 
 *Software*
-* Gimp
-* Inkscape
-* Scribus
-* Mozilla Firefox OS
+* [Gimp](http://www.gimp.org/)
+* [Inkscape](http://www.inkscape.org/en/)
+* [Scribus](http://www.scribus.net/canvas/Scribus)
+* [Libre Graphics World](http://libregraphicsworld.org/)
+* [Mozilla Firefox OS](http://www.mozilla.org/en-US/firefox/os/)
 * Even Adobe has some:
-    * snapsvg.io
-    * brackets.io
+    * [Snap.svg](http://snapsvg.io/)
+    * [Brackets](http://brackets.io/)
 * Even Microsoft!
-    * http://www.microsoft.com/en-us/openness/default.aspx#home  
-    * http://msopentech.com/projects/ 
+    * [Microsoft | Openness](http://www.microsoft.com/en-us/openness/default.aspx#home)
+    * [Microsoft Open Technologies](http://msopentech.com/projects)
 
-*Libraries and Toolkits*
-* p5.js
-* openFrameworks
-* Processing
-* Arduino
-* vvvv
-* etc.
+*Open Source Creative Coding Libraries and Toolkits*
+* [p5.js](http://p5js.org/)
+* [openFrameworks](http://www.openframeworks.cc)
+* [Processing](http://www.processing.org)
+* [Arduino](http://www.arduino.cc)
+* [vvvv](http://vvvv.org/)
+* [PureData](http://puredata.info/)
+* [NodeBox](http://nodebox.net/)
 
 *Initiatives and Collectives*
-* David Mellis's work
-* OpenHardware Initiative  
+* David Mellis
+* OpenHardware Initiative
+  * [Novena Laptop](http://www.crowdsupply.com/kosagi/novena-open-laptop)
 * http://fffff.at/  
     * https://www.youtube.com/watch?v=-b0rlJvO1BQ
 * [thingiverse](thingiverse.com)
