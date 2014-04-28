@@ -101,20 +101,24 @@ How to choose a license for your project
     * [https://www.youtube.com/watch?v=-b0rlJvO1BQ](https://www.youtube.com/watch?v=-b0rlJvO1BQ)
 
 *Conferences*
-* OpenHardware Summit
-* Art && Code
-* OpenVisConf
+* [OpenHardware Summit](http://2013.oshwa.org/)
+* [Art && Code](http://www.flong.com/projects/artandcode/)
+* [OpenVisConf](http://openvisconf.com/)
 * [Eyeo, a conversation with toolmakers](https://vimeo.com/70833521)
 
 ### Related Initiatives
 
 #### Creative Commons
 
-The idea of Open Source applied to the creation distribution of media.
+The idea of Open Source applied to the creation and distribution of media.
 
-* Lawrence Lessig http://www.lessig.org/
-* http://opendesignnow.org
-* Creative Commons website and search engines
+* [Creative Commons](http://creativecommons.org/)
+    * [Search engine @ Creative Commons](http://search.creativecommons.org/)
+* [Lawrence Lessig](http://www.lessig.org/)
+* [Open Design Now](http://opendesignnow.org)
+* More places to find creative commons media:
+    * [openclipart](http://openclipart.org/)
+    * 
     * for fonts, icons, SVG files, images, songs, etc
     * [opsound - Open Source music search engine](http://opsound.org/)
 * Ze Frank video?  
