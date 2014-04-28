@@ -138,5 +138,5 @@ The idea of Open Source applied to the creation and distribution of media.
     * How easy is it to find information about your design or craft in libraries, or on the Internet?
     * How easy is it to access key players in your field?
     * **Pick your favorite open source project and explain to your partner why it matters to you**
-4. **AS PAIRS, DISCUSS YOUR PARTNER'S FINDINGS TO THE CLASS**
+4. **AS PAIRS, SHARE YOUR PARTNER'S FINDINGS WITH THE CLASS**
 
