@@ -118,18 +118,14 @@ The idea of Open Source applied to the creation and distribution of media.
 * [Open Design Now](http://opendesignnow.org)
 * More places to find creative commons media:
     * [openclipart](http://openclipart.org/)
-    * 
-    * for fonts, icons, SVG files, images, songs, etc
+    * [Open Font Library](http://openfontlibrary.org/en)
     * [opsound - Open Source music search engine](http://opsound.org/)
-* Ze Frank video?  
 
-#### Free Software Foundation
-
-Stallman?  
 
 ##Activity: OSS and Art + Design
 1. Pair up with someone *not* from your major
 2. Finish and discuss the readings:
+    * [Ze Frank the show: 07-14-06](http://www.zefrank.com/thewiki/the_show:_07-14-06)
     * [The Open Source Definition](http://opensource.org/osd)
     * [How Open Source is Disrupting Visual Art](http://thecreatorsproject.vice.com/blog/how-open-source-is-disrupting-visual-art)
 3. Discuss with each other how the readings and the terminology in them relates to your field or department.  Questions to consider:
@@ -140,4 +136,5 @@ Stallman?
     * How easy is it to find information about your design or craft in libraries, or on the Internet?
     * How easy is it to access key players in your field?
 4. As pairs, present your partner's findings to the class
+5. **Extra** Pick your favorite OSS project and share with the class why you like it and why it's important that it is open source.
 
