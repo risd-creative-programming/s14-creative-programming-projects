@@ -81,12 +81,12 @@ How to choose a license for your project
 * [PureData](http://puredata.info/)
 * [NodeBox](http://nodebox.net/)
 
-*Initiatives and Collectives*
-* David Mellis
-* OpenHardware Initiative
-  * [Novena Laptop](http://www.crowdsupply.com/kosagi/novena-open-laptop)
-* http://fffff.at/  
-    * https://www.youtube.com/watch?v=-b0rlJvO1BQ
+*Open Hardware*
+* [David Mellis](http://web.media.mit.edu/~mellis/)
+    * [DIY Cellphone](http://web.media.mit.edu/~mellis/cellphone/)
+    * [Fab FM](http://web.media.mit.edu/~mellis/fabfm/)
+* [Open Source Hardware Association](http://www.oshwa.org/)
+* [Novena Laptop](http://www.crowdsupply.com/kosagi/novena-open-laptop)
 * [thingiverse](thingiverse.com)
 
 *Art Projects*
@@ -97,6 +97,8 @@ How to choose a license for your project
 * [radiohead house of cards, aaron koblin](http://www.aaronkoblin.com/work/rh/) - released depth data [code](https://code.google.com/p/radiohead/)
 * [perfume global, daito manabe / rhizomatics](http://perfume-global.com/) - released mocap data [contributed versions](http://perfume-global.com/project.html)
 * [wtf, okgo](http://okgo.net/2010/01/20/wtf-video-remix-project/) - [remixes](https://www.youtube.com/results?search_query=okgo+wtf+remix) - [memo akten's processing how to](http://www.memo.tv/okgo-wtf-effect/)
+* http://fffff.at/  
+    * https://www.youtube.com/watch?v=-b0rlJvO1BQ
 
 *Conferences*
 * OpenHardware Summit
