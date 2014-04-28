@@ -59,7 +59,7 @@ How to choose a license for your project
 
 ### Creative Software/Coding + Open Source
 
-*Software*
+#### Software
 * [Gimp](http://www.gimp.org/)
 * [Inkscape](http://www.inkscape.org/en/)
 * [Scribus](http://www.scribus.net/canvas/Scribus)
@@ -72,7 +72,7 @@ How to choose a license for your project
     * [Microsoft | Openness](http://www.microsoft.com/en-us/openness/default.aspx#home)
     * [Microsoft Open Technologies](http://msopentech.com/projects)
 
-*Open Source Creative Coding Libraries and Toolkits*
+####Open Source Creative Coding Libraries and Toolkits
 * [p5.js](http://p5js.org/)
 * [openFrameworks](http://www.openframeworks.cc)
 * [Processing](http://www.processing.org)
@@ -81,7 +81,7 @@ How to choose a license for your project
 * [PureData](http://puredata.info/)
 * [NodeBox](http://nodebox.net/)
 
-*Open Hardware*  
+####Open Hardware  
 ![](http://web.media.mit.edu/~mellis/fabfm/fabfm384.jpg)
 * [David Mellis](http://web.media.mit.edu/~mellis/)
     * [DIY Cellphone](http://web.media.mit.edu/~mellis/cellphone/)
@@ -90,7 +90,8 @@ How to choose a license for your project
 * [Novena Laptop](http://www.crowdsupply.com/kosagi/novena-open-laptop)
 * [thingiverse](thingiverse.com)
 
-*Art Projects*
+####Art Projects  
+![](http://www.blogcdn.com//media/2011/05/planetfoo-1-cjr.jpg)
 * [Planetary](http://www.cooperhewitt.org/planetary-bloom)
     * First open source art project to go into a museum collection
 * [Lauren McCarthy's GitHub](https://github.com/lmccart)
@@ -101,7 +102,7 @@ How to choose a license for your project
 * [FFFFFAT](http://fffff.at/)
     * [https://www.youtube.com/watch?v=-b0rlJvO1BQ](https://www.youtube.com/watch?v=-b0rlJvO1BQ)
 
-*Conferences*
+####Conferences
 * [OpenHardware Summit](http://2013.oshwa.org/)
 * [Art && Code](http://www.flong.com/projects/artandcode/)
 * [OpenVisConf](http://openvisconf.com/)
