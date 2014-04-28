@@ -48,7 +48,7 @@ Licenses are typically concerned with:
 How to choose a license for your project
   - [http://choosealicense.com/](http://choosealicense.com/)
   - [http://www.what-license.com/](http://www.what-license.com/)
-  - [creative commons](http://creativecommons.org/)
+  - [Creative Commons](http://creativecommons.org/)
 
 ### Where to find OSS projects
 
@@ -111,6 +111,7 @@ The idea of Open Source applied to the creation distribution of media.
 * http://opendesignnow.org
 * Creative Commons website and search engines
     * for fonts, icons, SVG files, images, songs, etc
+    * [opsound - Open Source music search engine](http://opsound.org/)
 * Ze Frank video?  
 
 #### Free Software Foundation
