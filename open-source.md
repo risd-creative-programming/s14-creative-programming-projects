@@ -135,6 +135,6 @@ The idea of Open Source applied to the creation and distribution of media.
     * Is work in your field usually done alone or in teams?
     * How easy is it to find information about your design or craft in libraries, or on the Internet?
     * How easy is it to access key players in your field?
-4. As pairs, present your partner's findings to the class
-5. **Extra** Pick your favorite OSS project and share with the class why you like it and why it's important that it is open source.
+    * **Pick your favorite open source project and explain to your partner why it matters to you**
+4. **AS PAIRS, DISCUSS YOUR PARTNER'S FINDINGS TO THE CLASS**
 
