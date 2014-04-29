@@ -64,6 +64,7 @@ How to choose a license for your project
 * [Gimp](http://www.gimp.org/)
 * [Inkscape](http://www.inkscape.org/en/)
 * [Scribus](http://www.scribus.net/canvas/Scribus)
+* [Blender](http://www.blender.org/)
 * [Libre Graphics World](http://libregraphicsworld.org/)
 * [Mozilla Firefox OS](http://www.mozilla.org/en-US/firefox/os/)
 * Even Adobe has some:
