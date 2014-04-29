@@ -52,10 +52,10 @@ How to choose a license for your project
 
 ### Where to find OSS projects
 
+* [List of free and open-source software packages](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)
 * [GitHub](http://www.github.com)
 * [Bitbucket](http://www.bitbucket.com)
 * [Google Code](https://code.google.com/)
-* [GitLab](https://www.gitlab.com/)
 
 ### Creative Software/Coding + Open Source
 
