@@ -142,3 +142,14 @@ The idea of Open Source applied to the creation and distribution of media.
     * **Pick your favorite open source project and explain to your partner why it matters to you**
 4. **AS PAIRS, SHARE YOUR PARTNER'S FINDINGS WITH THE CLASS**
 
+##Class Shares
+* [JS DIY Bench](http://www.jianshentan.com/diybench)
+* [DIY Nike Shoes](http://www.nike.com/us/en_us/c/nikeid)
+* [DIY Bose Headphones - Custom QuietComfort design tool](http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp&Variant=qc15_custom#currentState=qc15_custom)
+* [Nervous System - DIY Jewelry[(http://n-e-r-v-o-u-s.com/cellCycle/)
+* [Graphic Design Trendlist](http://www.trendlist.org/trends/frame)
+* [China's Copy Art Market](http://www.chinaperformancegroup.com/2013/01/chinas-copy-art-market/)
+* [The Neighbors - New Museum crowdsourced painting](http://www.newmuseum.org/exhibitions/view/pawel-althamer)
+* [3D printed houses](http://www.dailymail.co.uk/sciencetech/article-2594234/The-3D-printed-HOUSE-Technology-used-construct-entire-building-including-furniture-Amsterdam.html)
+* [Center for Urban Pedagogy](http://welcometocup.org/Projects/EnvisioningDevelopment/WhatIsZoning)
+* [The Art of Not Making](http://www.amazon.com/The-Art-Not-Making-Relationship/dp/0500290261)
