@@ -146,7 +146,7 @@ The idea of Open Source applied to the creation and distribution of media.
 * [JS DIY Bench](http://www.jianshentan.com/diybench)
 * [DIY Nike Shoes](http://www.nike.com/us/en_us/c/nikeid)
 * [DIY Bose Headphones - Custom QuietComfort design tool](http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp&Variant=qc15_custom#currentState=qc15_custom)
-* [Nervous System - DIY Jewelry[(http://n-e-r-v-o-u-s.com/cellCycle/)
+* [Nervous System - DIY Jewelry](http://n-e-r-v-o-u-s.com/cellCycle/)
 * [Graphic Design Trendlist](http://www.trendlist.org/trends/frame)
 * [China's Copy Art Market](http://www.chinaperformancegroup.com/2013/01/chinas-copy-art-market/)
 * [The Neighbors - New Museum crowdsourced painting](http://www.newmuseum.org/exhibitions/view/pawel-althamer)
