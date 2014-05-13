@@ -16,7 +16,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ####Week 1 - Feb 17: Workshop 1 (Github)
 * Introductions and syllabus
-* [Git and Github workshop](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/exercise-github.md)
+* [Git and Github workshop](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/github-workshop.md)
 * __Homework (DUE February 24):__
     * Create your personal class blog
     * Add name and link to class readme.md on git, submit a PR
@@ -44,8 +44,8 @@ This course is a graduate-level hands-on creative-programming studio, supporting
         * [Bocoup Blog: Time Estimation, Software, and Dinner](http://weblog.bocoup.com/time-estimation-software-and-dinner/)
     * **Project blog post**
 
-####Week 5 - Mar 17: [Workshop 2 (Creative Coding Best Practices)](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/coding-best-practices.md)
-* [Creative Coding Best Practices](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/coding-best-practices.md)
+####Week 5 - Mar 17: [Workshop 2 (Creative Coding Best Practices)](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/coding-best-practices-workshop.md)
+* [Creative Coding Best Practices](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/coding-best-practices-workshop.md)
     * Time Management
         * Discuss readings
         * Discuss estimation exercise
@@ -65,7 +65,7 @@ This course is a graduate-level hands-on creative-programming studio, supporting
 
 ####Week 9 - Apr 21: Check-in
 
-####Week 10 - Apr 28: [Workshop 4 (Open Source Software)](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/open-source.md)
+####Week 10 - Apr 28: [Workshop 4 (Open Source Software)](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/open-source-workshop.md)
 * Readings:
     * [The Open Source Definition](http://opensource.org/osd)
     * [How Open Source is Disrupting Visual Art](http://thecreatorsproject.vice.com/blog/how-open-source-is-disrupting-visual-art)
