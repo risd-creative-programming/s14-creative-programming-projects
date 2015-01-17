@@ -89,7 +89,9 @@ from [git simple guide](http://rogerdudler.github.io/git-guide/)
   ```$ git add index.html
      $ git add package.json // etc```
 4. Commit your changes with a message to ready all of your files for sending to github. Fill in the message with something useful.
-  ```git commit -m "<your message here>"``` . 
+  ```
+  git commit -m "<your message here>"
+  ``` . 
 5.  Push your changes to the web (github):
   ```git push origin master```
 6. If you refresh your github repo page online, you should see your updated files appear.
