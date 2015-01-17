@@ -82,18 +82,34 @@ from [git simple guide](http://rogerdudler.github.io/git-guide/)
 
 1. In Terminal, navigate to the folder where your project is located. (See "Introduction to command line" above)
 2. To see the status of all the files that have been modified since your last commit, type:
-  ```$ git status```
+
+  ```
+  $ git status
+  ```
 3. "Stage" all the modified files (add them to your local .git):
-  ```$ git add *```
+  
+  ```
+  $ git add *
+  ```
   You can also add them individually by typing each one by one:
-  ```$ git add index.html
-     $ git add package.json // etc```
+  
+  ```
+  $ git add index.html
+  $ git add package.json 
+  // etc
+  ```
+  
 4. Commit your changes with a message to ready all of your files for sending to github. Fill in the message with something useful.
+5. 
   ```
   git commit -m "<your message here>"
   ``` . 
 5.  Push your changes to the web (github):
-  ```git push origin master```
+  
+  ```
+  git push origin master
+  ```
+  
 6. If you refresh your github repo page online, you should see your updated files appear.
 
 ####Syncing up your repository with the web
