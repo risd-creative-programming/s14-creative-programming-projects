@@ -78,7 +78,7 @@ from [git simple guide](http://rogerdudler.github.io/git-guide/)
 * 
 
 
-### STEP BY STEP: Add your changes to your github repository.
+### STEP BY STEP: Add your local changes to your github repository.
 
 1. In Terminal, navigate to the folder where your project is located. (See "Introduction to command line" above)
 2. To see the status of all the files that have been modified since your last commit, type:
@@ -112,10 +112,15 @@ from [git simple guide](http://rogerdudler.github.io/git-guide/)
   
 6. If you refresh your github repo page online, you should see your updated files appear.
 
-####Syncing up your repository with the web
-At some point, after your pull request and other changes have been made to the main repository, you might want to pull these changes into your own local copy again.
+###STEP BY STEP: Syncing up your repository with the web
+
+At some point, for example if you are collaborating with others, you may have changes in your github repository (remote repo) that you want to get into the copy of the code on your machine (local repository).
 
 1. In Terminal, navigate into the folder of your project/repository.
-2. Type `git pull origin master`. 
+2. Get the changes from the remote repo into your local repo:
+
+  ```
+  $ git pull origin master
+  ```
+  
 3. If there are any conflicts, Terminal will let you know the line numbers and files where these occurred. You can open them with a text editor and manually resolve any problems.
-4. Repeat steps 10-14 above to push all sync'd changes to the web (github) again.
