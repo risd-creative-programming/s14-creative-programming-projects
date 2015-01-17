@@ -103,7 +103,7 @@ from [git simple guide](http://rogerdudler.github.io/git-guide/)
 
   ```
   $ git commit -m "<your message here>"
-  ``` . 
+  ```
 5.  Push your changes to the web (github):
   
   ```
