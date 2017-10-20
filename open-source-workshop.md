@@ -1,6 +1,6 @@
-#Week 5 - Apr 28: Workshop 4
+# Week 5 - Apr 28: Workshop 4
 
-##Open Source Software (OSS)
+## Open Source Software (OSS)
 
 ### What is open source software?
 
@@ -74,7 +74,7 @@ How to choose a license for your project
     * [Microsoft | Openness](http://www.microsoft.com/en-us/openness/default.aspx#home)
     * [Microsoft Open Technologies](http://msopentech.com/projects)
 
-####Open Source Creative Coding Libraries and Toolkits
+#### Open Source Creative Coding Libraries and Toolkits
 * [p5.js](http://p5js.org/)
 * [openFrameworks](http://www.openframeworks.cc)
 * [Processing](http://www.processing.org)
@@ -83,7 +83,7 @@ How to choose a license for your project
 * [PureData](http://puredata.info/)
 * [NodeBox](http://nodebox.net/)
 
-####Open Hardware  
+#### Open Hardware  
 ![](http://web.media.mit.edu/~mellis/fabfm/fabfm384.jpg)
 * [David Mellis](http://web.media.mit.edu/~mellis/)
     * [DIY Cellphone](http://web.media.mit.edu/~mellis/cellphone/)
@@ -92,7 +92,7 @@ How to choose a license for your project
 * [Novena Laptop](http://www.crowdsupply.com/kosagi/novena-open-laptop)
 * [thingiverse](thingiverse.com)
 
-####Art Projects  
+#### Art Projects  
 ![](http://www.blogcdn.com//media/2011/05/planetfoo-1-cjr.jpg)
 * [Planetary](http://www.cooperhewitt.org/planetary-bloom)
     * First open source art project to go into a museum collection
@@ -104,7 +104,7 @@ How to choose a license for your project
 * [FFFFFAT](http://fffff.at/)
     * [https://www.youtube.com/watch?v=-b0rlJvO1BQ](https://www.youtube.com/watch?v=-b0rlJvO1BQ)
 
-####Conferences
+#### Conferences
 * [OpenHardware Summit](http://2013.oshwa.org/)
 * [Art && Code](http://www.flong.com/projects/artandcode/)
 * [OpenVisConf](http://openvisconf.com/)
@@ -126,7 +126,7 @@ The idea of Open Source applied to the creation and distribution of media.
     * [opsound - Open Source music search engine](http://opsound.org/)
 
 
-##Activity: OSS and Art + Design
+## Activity: OSS and Art + Design
 1. Pair up with someone *not* from your major
 2. Finish and discuss the readings:
     * [The Open Source Definition](http://opensource.org/osd)
@@ -142,7 +142,7 @@ The idea of Open Source applied to the creation and distribution of media.
     * **Pick your favorite open source project and explain to your partner why it matters to you**
 4. **AS PAIRS, SHARE YOUR PARTNER'S FINDINGS WITH THE CLASS**
 
-##Class Shares
+## Class Shares
 * [JS DIY Bench](http://www.jianshentan.com/diybench)
 * [DIY Nike Shoes](http://www.nike.com/us/en_us/c/nikeid)
 * [DIY Bose Headphones - Custom QuietComfort design tool](http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp&Variant=qc15_custom#currentState=qc15_custom)

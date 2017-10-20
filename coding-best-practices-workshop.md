@@ -1,11 +1,11 @@
-#Week 5 - Mar 17: Workshop 2
-#Creative Coding Best Practices
+# Week 5 - Mar 17: Workshop 2
+# Creative Coding Best Practices
 
-##Time management
+## Time management
 
 ![](http://i.imgur.com/aQZHy.gif)
 
-###Activity: time estimation
+### Activity: time estimation
 1. List out the technical tasks / todos you need to accomplish this week.
 2. Break into subtasks and estimate time for each. How long do you think each subtask will take you? Be as honest as you can.
 3. Time the subtasks as you complete them throughout the week.
@@ -17,12 +17,12 @@
 Read the top voted answer with 8.9k votes by Michael Wolfe
 * [Bocoup Blog: Time Estimation, Software, and Dinner](http://weblog.bocoup.com/time-estimation-software-and-dinner/)
 
-##Version control
+## Version control
 
 * DIY -- copy the folder and rename with date. Save copies on different machines or clouds just in case!
 * Github -- tutorial [here](https://github.com/risd-creative-programming/s14-creative-programming-projects/blob/master/exercise-github.md)
 
-##Code organization
+## Code organization
 
 * **Name well** -- Make sure variable names reflect what they describe on screen, class/object names reflect what they are, and function names reflect what they do.
 * **Comment** -- Describe what's going on in English your parents can understand. Go line-by-line in your code if you have to. The more self-explanatory your variable/function names, the simpler your comments can be. It may seem obvious to you at the moment, but if you come back to your code hours, days, weeks, years later, you will thank yourself!
@@ -30,7 +30,7 @@ Read the top voted answer with 8.9k votes by Michael Wolfe
 * **Modularize** -- Organize your code into functions so your code is easier to read and you can turn functionality on/off more easily. When your project starts to get larger, split your code into multiple files instead of having one really long file.
 * **Format** -- Format your code early and often, line up if blocks, for loops, and functions. This will help you (and anyone you ask for help) to see and understand what’s going on. (Cmd/ctrl+t in Processing will do it automatically for you!)
 
-##Common errors
+## Common errors
 
 ![](http://i1087.photobucket.com/albums/j475/viniciusmiro/Gifs/tumblr_lk84kyJbMz1qbghjc.gif)
 
@@ -62,18 +62,18 @@ __*"There are two hard things in computer science: cache invalidation, naming th
  
 **Part 2**: Each person picks one error. Create a diagram / illustration of the error. Could be more conceptual… should not be code example. Show diagram to class, explain what the error is, how to detect it, etc. (~20 mins)
 
-##Debugging strategies
+## Debugging strategies
 
 Parts adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit).
 
-###Prepare
+### Prepare
 
 + Don’t panic. (Do take a deep breath.)  
 ![](http://i.imgur.com/LH1LO.gif)
 + Take a snapshot. Don’t go backwards! Keep track of everything you try.  
 + Write a message asking for help.  
   
-###Observe
+### Observe
 
 ![](http://i.imgur.com/WIrUykX.gif)
 
@@ -84,7 +84,7 @@ Parts adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://d
 + LMGTFY
 + Print -- Print out any and all values that might help you better understand what's going on. Label what you're printing using String concatenation.
 
-###Change
+### Change
 + Can you work from one end to the other?
 
 ![](http://31.media.tumblr.com/d844d7209d5a9b01c1e79cc6fddc3329/tumblr_ms3lhghLxK1ql5yr7o1_400.gif)
@@ -96,7 +96,7 @@ Parts adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://d
 
 ![](http://imageshack.us/a/img189/6613/tumblrlp9vi5yi801qhjpk5.gif)
 
-###Defend 
+### Defend 
 + Premature Optimization Is The Root of All Evil  
 + Only do one thing at a time.
  
@@ -107,14 +107,14 @@ Parts adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://d
 + Take breaks -- sleeping on it or letting things process in your subconscious can help you arrive at an answer.
 ![](http://25.media.tumblr.com/tumblr_mb5xneXFLU1rpyjpco1_250.gif)
 
-###Be social
+### Be social
 + __Ask for help__ -- Don’t waste hours or days stuck on a problem. If you have tried all the above yourself and looked around online, ask for help. Places to ask include forums, IRC, mailing lists, classmates. See below for tips for asking for help.
 ![](http://assets0.ordienetworks.com/misc/tumblr_lzcnn2wIFe1qi0hnvo1_500.gif)
 + __Talk it out__ -- Find a friend and talk through your problem. They don’t necessarily need to completely understand your code. Sometimes just walking step by step through a problem can make you see a detail or solution you were overlooking.
     + [Rubber duck debugging](http://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 
-##Asking for help
+## Asking for help
 
 ![](https://31.media.tumblr.com/d586c5f898287597dc01facc77d7a8a4/tumblr_inline_mzjzs15gYy1qj3ir1.gif)
 
@@ -130,7 +130,7 @@ Parts adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://d
     * [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html)
     * [Getting help on IRC](https://workaround.org/getting-help-on-irc)
 
-##Activity: debug competition
+## Activity: debug competition
 
 **Part 1**: Break into teams of 2 (make sure each group has one person that knows Processing or code well). Create a Processing sketch, and take a screenshot of the output. Then change only one line / insert one bug of the sketch code to “break” it. Broken could mean it won’t run or it looks wrong, compared to the screenshot you took.
 
@@ -145,13 +145,13 @@ Parts adapted from Clay Shirky’s [A Brief Introduction to Debugging](https://d
 * How did we think about writing a sketch to be hard to debug / hide an error?
 * What realizations did you have while creating or debugging?
 
-##More resources
+## More resources
 * Excellent article on [how to approach problem-solving](http://mattgemmell.com/2008/12/08/what-have-you-tried/)
 * Clay Shirky's guide to the [Basics of Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit)
 * [whathaveyoutried.com](http://www.whathaveyoutried.com)
 
 
-##Tools
+## Tools
 * Checking code: [JSLint](http://www.jslint.com/) / [JSHint](http://www.jshint.com)
 * Debugging: Chrome Developer Tools ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / Firebug ([tutorial](http://www.developerfusion.com/article/139949/debugging-javascript-with-firebug/))
 * Sharing code snippets: [gist.github.com](http://gist.github.com)
