@@ -112,7 +112,7 @@ from [git simple guide](http://rogerdudler.github.io/git-guide/)
   
 6. If you refresh your github repo page online, you should see your updated files appear.
 
-###STEP BY STEP: Syncing up your repository with the web
+### STEP BY STEP: Syncing up your repository with the web
 
 At some point, for example if you are collaborating with others, you may have changes in your github repository (remote repo) that you want to get into the copy of the code on your machine (local repository).
 
